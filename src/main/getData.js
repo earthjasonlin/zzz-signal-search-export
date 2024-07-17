@@ -12,8 +12,8 @@ const { mergeData } =  require('./utils/mergeData')
 const gachaTypeRaw = require('../gachaType.json')
 
 const dataMap = new Map()
-const order = ['11', '12', '1', '2']
-let apiDomain = 'https://api-takumi.mihoyo.com'
+const order = ['2', '3', '1', '5']
+let apiDomain = 'https://public-operation-nap.mihoyo.com'
 
 const saveData = async (data, url) => {
   const obj = Object.assign({}, data)
@@ -23,10 +23,10 @@ const saveData = async (data, url) => {
 }
 
 const defaultTypeMap = new Map([
-  ['11', '角色活动跃迁'],
-  ['12', '光锥活动跃迁'],
-  ['1', '常驻跃迁'],
-  ['2', '新手跃迁']
+  ['2', '独家频段'],
+  ['3', '音擎频段'],
+  ['1', '常驻频段'],
+  ['5', '邦布频段']
 ])
 
 const findDataFiles = async (dataPath, fileMap) => {
@@ -86,7 +86,7 @@ const changeCurrent = async (uid) => {
 const detectGameLocale = async (userPath) => {
   let list = []
   const lang = app.getLocale()
-  const arr = ['/miHoYo/崩坏：星穹铁道/', '/Cognosphere/Star Rail/']
+  const arr = ['/miHoYo/绝区零/', '/Cognosphere/Zenless Zone Zero/']
   arr.forEach(str => {
     try {
       const pathname = path.join(userPath, '/AppData/LocalLow/', str, 'Player.log')
@@ -165,7 +165,7 @@ const readLog = async () => {
 const getGachaLog = async ({ key, page, name, retryCount, url, endId }) => {
   const text = i18n.log
   try {
-    const res = await request(`${url}&gacha_type=${key}&page=${page}&size=${20}${endId ? '&end_id=' + endId : ''}`)
+    const res = await request(`${url}&real_gacha_type=${key}&page=${page}&size=${20}${endId ? '&end_id=' + endId : ''}`)
     if (res?.data?.list) {
       return res?.data
     }
@@ -262,7 +262,7 @@ const tryGetUid = async (queryString) => {
   const url = `${apiDomain}/common/gacha_record/api/getGachaLog?${queryString}`
   try {
     for (let [key] of defaultTypeMap) {
-      const res = await request(`${url}&gacha_type=${key}&page=1&size=6`)
+      const res = await request(`${url}&real_gacha_type=${key}&page=1&size=6`)
       if (res.data.list && res.data.list.length) {
         return res.data.list[0].uid
       }
@@ -291,7 +291,7 @@ const getQuerystring = (url) => {
   if (host.includes('webstatic-sea') || host.includes('hkrpg-api-os') || host.includes('api-os-takumi') || host.includes('hoyoverse.com')) {
     apiDomain = 'https://api-os-takumi.mihoyo.com'
   } else {
-    apiDomain = 'https://api-takumi.mihoyo.com'
+    apiDomain = 'https://public-operation-nap.mihoyo.com'
   }
   const authkey = searchParams.get('authkey')
   if (!authkey) {
@@ -300,7 +300,7 @@ const getQuerystring = (url) => {
   }
   searchParams.delete('page')
   searchParams.delete('size')
-  searchParams.delete('gacha_type')
+  searchParams.delete('real_gacha_type')
   searchParams.delete('end_id')
   return searchParams
 }
@@ -357,7 +357,7 @@ const getUrlFromConfig = () => {
 const tryRequest = async (url, retry = false) => {
   const queryString = getQuerystring(url)
   if (!queryString) return false
-  const gachaTypeUrl = `${apiDomain}/common/gacha_record/api/getGachaLog?${queryString}&page=1&size=5&gacha_type=1&end_id=0`
+  const gachaTypeUrl = `${apiDomain}/common/gacha_record/api/getGachaLog?${queryString}&page=1&size=5&real_gacha_type=1&end_id=0`
   try {
     const res = await request(gachaTypeUrl)
     checkResStatus(res)

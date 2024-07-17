@@ -103,33 +103,13 @@ const sortData = (data) => {
 const langMap = new Map([
   ['zh-cn', '简体中文'],
   ['zh-tw', '繁體中文'],
-  ['de-de', 'Deutsch'],
-  ['en-us', 'English'],
-  ['es-es', 'Español'],
-  ['fr-fr', 'Français'],
-  ['id-id', 'Indonesia'],
-  ['ja-jp', '日本語'],
-  ['ko-kr', '한국어'],
-  ['pt-pt', 'Português'],
-  ['ru-ru', 'Pусский'],
-  ['th-th', 'ภาษาไทย'],
-  ['vi-vn', 'Tiếng Việt']
+  ['en-us', 'English']
 ])
 
 const localeMap = new Map([
   ['zh-cn', ['zh', 'zh-CN']],
   ['zh-tw', ['zh-TW']],
-  ['de-de', ['de-AT', 'de-CH', 'de-DE', 'de']],
-  ['en-us', ['en-AU', 'en-CA', 'en-GB', 'en-NZ', 'en-US', 'en-ZA', 'en']],
-  ['es-es', ['es', 'es-419']],
-  ['fr-fr', ['fr-CA', 'fr-CH', 'fr-FR', 'fr']],
-  ['id-id', ['id']],
-  ['ja-jp', ['ja']],
-  ['ko-kr', ['ko']],
-  ['pt-pt', ['pt-BR', 'pt-PT', 'pt']],
-  ['ru-ru', ['ru']],
-  ['th-th', ['th']],
-  ['vi-vn', ['vi']]
+  ['en-us', ['en-AU', 'en-CA', 'en-GB', 'en-NZ', 'en-US', 'en-ZA', 'en']]
 ])
 
 const detectLocale = (value) => {

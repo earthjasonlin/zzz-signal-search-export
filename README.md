@@ -1,10 +1,10 @@
-# 星穹铁道跃迁记录导出工具
+# 绝区零记录导出工具
 
-中文 | [English](https://github.com/biuuu/star-rail-warp-export/blob/main/docs/README_EN.md)
+中文 | [English](https://git.loliquq.cn/earthjasonlin/zzz-signal-search-export/blob/main/docs/README_EN.md)
 
-这个项目由[genshin-wish-export](https://github.com/biuuu/genshin-wish-export/)修改而来，功能基本一致。
+这个项目由[star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export/)修改而来，功能基本一致。
 
-一个使用 Electron 制作的小工具，需要在 Windows 64位操作系统上运行。
+一个使用 Electron 制作的小工具，需要在 Windows 操作系统上运行。
 
 通过读取游戏日志或者代理模式获取访问游戏跃迁记录 API 所需的 authKey，然后再使用获取到的 authKey 来读取游戏跃迁记录。
 
@@ -14,10 +14,10 @@
 
 ## 使用说明
 
-1. 下载工具后解压 - 下载地址: [Github](https://github.com/biuuu/star-rail-warp-export/releases/latest/download/StarRailWarpExport.zip) / [蓝奏云](https://wwvt.lanzoum.com/b022mikwh) 密码:f1iy
+1. 下载工具后解压 - 下载地址: [GitHub](https://github.com/earthjasonlin/zzz-signal-search-export/releases/latest/download/ZzzSignalSearchExport.zip) / [123云盘](https://www.123pan.com/s/Vs9uVv-ShhE.html)
 2. 打开游戏的跃迁详情页面
 
-   ![详情页面](/docs/wish-history.png)
+   ![详情页面](/docs/wish-history.jpg)
 
 3. 点击工具的“加载数据”按钮
 
@@ -38,7 +38,7 @@
 
 ## Devlopment
 
-```
+```bash
 # 安装模块
 yarn install
 
@@ -51,4 +51,4 @@ yarn build
 
 ## License
 
-[MIT](https://github.com/biuuu/star-rail-warp-export/blob/main/LICENSE)
+[MIT](https://github.com/earthjasonlin/zzz-signal-search-export/blob/main/LICENSE)

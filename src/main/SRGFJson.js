@@ -28,7 +28,7 @@ const start = async () => {
       lang: data.lang,
       export_time: formatDate(new Date()),
       export_timestamp: Math.ceil(Date.now() / 1000),
-      export_app: 'star-rail-warp-export',
+      export_app: 'zzz-signal-search-export',
       export_app_version: `v${version}`,
       region_time_zone: data.region_time_zone,
       srgf_version: 'v1.0'
