@@ -14,7 +14,7 @@
 
 ## 使用说明
 
-1. 下载工具后解压 - 下载地址: [GitHub](https://github.com/earthjasonlin/zzz-signal-search-export/releases/latest/download/ZzzSignalSearchExport.zip) / [123云盘](https://www.123pan.com/s/Vs9uVv-ShhE.html)
+1. 下载工具后解压 - 下载地址: [GitHub](https://github.com/earthjasonlin/zzz-signal-search-export/releases/latest/download/ZzzSignalSearchExport.zip) / [123云盘](https://www.123pan.com/s/Vs9uVv-ShhE.html) / [蓝奏云（密码:zzzz）](https://www.lanzouh.com/b00eewtvxa)
 2. 打开游戏的跃迁详情页面
 
    ![详情页面](/docs/wish-history.jpg)
