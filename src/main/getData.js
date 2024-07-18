@@ -138,15 +138,8 @@ const readLog = async () => {
     }
     const promises = logPaths.map(async logpath => {
       const logText = await fs.readFile(logpath, 'utf8')
-      const gamePathMch = logText.match(/\w:\/.*?\/StarRail_Data\//i)
-      if (gamePathMch) {
-        const [cacheText, cacheFile] = await getCacheText(gamePathMch[0])
-        const urlMch = cacheText.match(/https[^?]+?\?[^?]+?&auth_appid=webview_gacha&.+?authkey=.+?&game_biz=hkrpg_.+?&plat_type=pc/g)
-        if (urlMch) {
-          cacheFolder = cacheFile.replace(/Cache_Data[/\\]data_2$/, '')
-          return getLatestUrl(urlMch)
-        }
-      }
+      const url = logText.match(/https:\/\/.*?\/info/g)
+      return getLatestUrl(url)
     })
     const result = await Promise.all(promises)
     for (let url of result) {
