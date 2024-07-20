@@ -139,7 +139,19 @@ const readLog = async () => {
     const promises = logPaths.map(async logpath => {
       const logText = await fs.readFile(logpath, 'utf8')
       const url = logText.match(/https:\/\/.*?\/info/g)
-      return getLatestUrl(url)
+      if (url) {
+        return getLatestUrl(url)
+      }
+      const gamePathMch = logText.match(/([A-Z]:\/.*?\/)(?=ZenlessZoneZero_Data)/i)
+      if (gamePathMch) {
+        const[cacheText, cacheFile] = await getCacheText("F:/zzz_game/ZenlessZoneZero_Data") /* getCacheText(gamePathMch[0]+"/ZenlessZoneZero_Data") */
+        const urlMch = cacheText.match(/https.+?authkey=.+?end_id=/g)
+        if (urlMch) {
+          cacheFolder = cacheFile.replace(/Cache_Data[/\\]data_2$/, '')
+          return getLatestUrl(urlMch)
+        }
+      }
+      
     })
     const result = await Promise.all(promises)
     for (let url of result) {
