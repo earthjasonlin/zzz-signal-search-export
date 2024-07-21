@@ -142,12 +142,12 @@ const readJSON = async (dataPath, name) => {
 }
 
 const hash = (data, type = 'sha256') => {
-  const hmac = crypto.createHmac(type, 'hk4e')
+  const hmac = crypto.createHmac(type, 'nap')
   hmac.update(data)
   return hmac.digest('hex')
 }
 
-const scryptKey = crypto.scryptSync(userPath, 'hk4e', 24)
+const scryptKey = crypto.scryptSync(userPath, 'nap', 24)
 const cipherAes = (data) => {
   const algorithm = 'aes-192-cbc'
   const iv = Buffer.alloc(16, 0)
