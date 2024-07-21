@@ -54,7 +54,7 @@ const gachaDetail = (data) => {
         detail.ssrPos.push([name, index + 1 - lastSSR, time, key])
         lastSSR = index + 1
         detail.count4++
-        detail.countMio++
+        detail.countMio = 0
         if (isWeapon(type)) {
           detail.count4w++
           itemCount(detail.weapon4, name)
