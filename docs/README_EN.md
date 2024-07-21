@@ -1,6 +1,6 @@
 # Zenless Zone Zero Signal Search History Exporter
 
-[中文](https://git.loliquq.cn/earthjasonlin/zzz-signal-search-export/blob/main/README.md) | English
+[中文](https://github.com/earthjasonlin/zzz-signal-search-export) | English
 
 This project is modified from the [star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export/) repository, and its functions are basically the same.
 

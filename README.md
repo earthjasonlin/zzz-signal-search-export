@@ -1,6 +1,6 @@
 # 绝区零记录导出工具
 
-中文 | [English](https://git.loliquq.cn/earthjasonlin/zzz-signal-search-export/blob/main/docs/README_EN.md)
+中文 | [English](https://github.com/earthjasonlin/zzz-signal-search-export/blob/main/docs/README_EN.md)
 
 这个项目由[star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export/)修改而来，功能基本一致。
 
