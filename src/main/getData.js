@@ -293,8 +293,8 @@ const fixAuthkey = (url) => {
 const getQuerystring = (url) => {
   const text = i18n.log
   const { searchParams, host } = new URL(fixAuthkey(url))
-  if (host.includes('webstatic-sea') || host.includes('hkrpg-api-os') || host.includes('api-os-takumi') || host.includes('hoyoverse.com')) {
-    apiDomain = 'https://api-os-takumi.mihoyo.com'
+  if (host.includes('webstatic-sea') || host.includes('hoyoverse.com')) {
+    apiDomain = 'https://public-operation-nap-sg.hoyoverse.com'
   } else {
     apiDomain = 'https://public-operation-nap.mihoyo.com'
   }
