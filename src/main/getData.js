@@ -144,7 +144,7 @@ const readLog = async () => {
       }
       const gamePathMch = logText.match(/([A-Z]:\/.*?\/)(?=ZenlessZoneZero_Data)/i)
       if (gamePathMch) {
-        const[cacheText, cacheFile] = await getCacheText("F:/zzz_game/ZenlessZoneZero_Data") /* getCacheText(gamePathMch[0]+"/ZenlessZoneZero_Data") */
+        const[cacheText, cacheFile] = await getCacheText(gamePathMch[0]+"/ZenlessZoneZero_Data")
         const urlMch = cacheText.match(/https.+?authkey=.+?end_id=/g)
         if (urlMch) {
           cacheFolder = cacheFile.replace(/Cache_Data[/\\]data_2$/, '')
