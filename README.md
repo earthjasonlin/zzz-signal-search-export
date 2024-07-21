@@ -1,4 +1,4 @@
-# 绝区零记录导出工具
+# 绝区零调频记录导出工具
 
 中文 | [English](https://github.com/earthjasonlin/zzz-signal-search-export/blob/main/docs/README_EN.md)
 
