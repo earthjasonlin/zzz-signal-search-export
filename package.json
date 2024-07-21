@@ -16,6 +16,7 @@
     "build:dir": "cross-env BUILD_TARGET=clean node .electron-vite/build.js  && electron-builder --dir",
     "build:clean": "cross-env BUILD_TARGET=onlyClean node .electron-vite/build.js",
     "build:web": "cross-env BUILD_TARGET=web node .electron-vite/build.js",
+    "build-update": "node .electron-vite/update.js",
     "dev:web": "cross-env TARGET=web node .electron-vite/dev-runner.js",
     "start": "electron ./src/main/main.js",
     "dep:upgrade": "yarn upgrade-interactive --latest",

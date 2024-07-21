@@ -87,6 +87,7 @@
   "log.proxy.hint": "Using proxy mode [${ip}:${port}] to get URL，please reopen warp history inside the game client.",
   "log.url.notFound2": "Unable to find URL, please make sure you already opened warp history inside the game client",
   "log.url.incorrect": "Unable to get URL parameters",
+  "log.autoUpdate.success": "Auto update successful，please restart the program",
   "excel.header.time": "time",
   "excel.header.name": "name",
   "excel.header.type": "type",

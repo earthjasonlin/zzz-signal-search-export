@@ -5,6 +5,7 @@ require('./getData')
 require('./bridge')
 require('./excel')
 require('./SRGFJson')
+const { getUpdateInfo } = require('./update/index')
 
 const isDev = !app.isPackaged
 let win = null
@@ -52,6 +53,12 @@ if (!isFirstInstance) {
   app.on('will-quit', (e) => {
     if (proxyStatus.started) {
       disableProxy()
+    }
+    if (getUpdateInfo().status === 'moving') {
+      e.preventDefault()
+      setTimeout(() => {
+        app.quit()
+      }, 3000)
     }
   })
 

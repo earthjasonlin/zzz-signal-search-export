@@ -327,6 +327,11 @@ onMounted(async () => {
     console.error(err)
   })
 
+  ipcRenderer.on('UPDATE_HINT', (event, message) => {
+    state.log = message
+    state.status = 'updated'
+  })
+
   ipcRenderer.on('AUTHKEY_TIMEOUT', (event, message) => {
     state.authkeyTimeout = message
   })

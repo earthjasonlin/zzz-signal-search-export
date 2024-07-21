@@ -86,6 +86,7 @@
   "log.proxy.hint": "正在使用代理模式[${ip}:${port}]获取URL，请重新打开游戏抽卡记录。",
   "log.url.notFound2": "未找到URL，请确认是否已打开游戏抽卡记录",
   "log.url.incorrect": "获取URL参数失败",
+  "log.autoUpdate.success": "自动更新已完成，重启工具后生效",
   "excel.header.time": "时间",
   "excel.header.name": "名称",
   "excel.header.type": "类别",
