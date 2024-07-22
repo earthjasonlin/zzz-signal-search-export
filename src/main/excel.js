@@ -82,11 +82,17 @@ const start = async () => {
       arr.push(log.time)
       arr.push(log.name)
       arr.push(log.item_type)
-      arr.push(log.rank_type)
+      if(log.rank_type === '2') {
+        arr.push(i18n.ui.data.star2)
+      } else if(log.rank_type === '3') {
+        arr.push(i18n.ui.data.star3)
+      } else {
+        arr.push(i18n.ui.data.star4)
+      }
       arr.push(total)
       arr.push(pity)
       temp.push(arr)
-      if (log.rank_type === '5') {
+      if (log.rank_type === '4') {
         pity = 0
       }
       // if (key === '301') {
@@ -133,14 +139,14 @@ const start = async () => {
         }
         // rare rank background color
         const rankColor = {
-          3: "ff8e8e8e",
-          4: "ffa256e1",
-          5: "ffbd6932",
+          2: "ff8e8e8e",
+          3: "ffa256e1",
+          4: "ffbd6932",
         }
         sheet.getCell(`${c}${i + 2}`).font = {
           name: customFont,
           color: { argb: rankColor[v.rank_type] },
-          bold : v.rank_type != "3"
+          bold : v.rank_type != "2"
         }
       })
     })
