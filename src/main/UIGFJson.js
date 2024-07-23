@@ -23,6 +23,15 @@ const start = async () => {
   if (!data.result.size) {
     throw new Error('数据为空')
   }
+  const serverTimeZone = new Map([
+    ["prod_gf_cn", 8]
+  ])
+  
+  let timezone
+  timezone = serverTimeZone.get(data.region)
+  if(!timezone) {
+    throw new Error('服务器时区不支持')
+  }
   const result = {
     info: {
       export_timestamp: Math.ceil(Date.now() / 1000),
@@ -33,7 +42,7 @@ const start = async () => {
     nap: [
       {
         uid: current,
-        timezone: data.region_time_zone,
+        timezone: timezone,
         lang: data.lang,
         list: []
       }
