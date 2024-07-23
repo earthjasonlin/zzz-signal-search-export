@@ -1,6 +1,6 @@
 {
   "name": "zzz-signal-search-export",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "./dist/electron/main/main.js",
   "author": "earthjasonlin <https://git.loliquq.cn/earthjasonlin>",
   "homepage": "https://github.com/earthjasonlin/zzz-signal-search-export",
