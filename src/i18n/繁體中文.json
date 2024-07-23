@@ -5,7 +5,7 @@
   "ui.button.directUpdate": "直接更新",
   "ui.button.files": "導出文件",
   "ui.button.excel": "導出Excel",
-  "ui.button.srgf":"導出JSON",
+  "ui.button.uigf":"導出UIGF (Beta)",
   "ui.button.url": "輸入URL",
   "ui.button.setting": "設置",
   "ui.button.option": "選項",
@@ -97,7 +97,7 @@
   "excel.customFont": "微軟雅黑",
   "excel.filePrefix": "絕區零調頻記錄",
   "excel.fileType": "Excel文件",
-  "srgf.fileType":"絕區零調頻記錄格式文件（SRGF）",
+  "uigf.fileType":"統一可交換抽卡記錄標準 v4.0（Beta）",
   "ui.extra.cacheClean": "1. 確認是否已經打開遊戲內的抽卡歷史記錄，如果仍然出現「身份認證已過期」的錯誤，再嘗試下面的步驟\n2. 關閉絕區零的遊戲窗口\n3. 點擊上方的「打開緩存文件夾」按鈕，打開Cache文件夾\n4. 刪除Cache_Data文件夾\n5. 啟動絕區零遊戲，打開遊戲內抽卡歷史記錄頁面\n6. 關閉這個對話框，再點擊「更新數據」按鈕",
   "ui.extra.findCacheFolder": "如果點「打開緩存文件夾」按鈕沒有反應，可以手動找到遊戲的網頁緩存文件夾，目錄為「你的遊戲安裝路徑/ZenlessZoneZero_Data/webCaches/Cache/」",
   "ui.extra.urlCopied": "URL已復製"

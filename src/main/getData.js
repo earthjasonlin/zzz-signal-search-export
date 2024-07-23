@@ -58,6 +58,13 @@ const readData = async () => {
       const data = await readJSON(dataPath, name)
       data.typeMap = new Map(data.typeMap) || defaultTypeMap
       data.result = new Map(data.result)
+      data.result.forEach((value, key) => {
+        value.forEach(item => {
+          if (!('count' in item)) {
+            item.count = "1";
+          }
+        });
+      });
       if (data.uid) {
         dataMap.set(data.uid, data)
       }
@@ -423,8 +430,8 @@ const fetchData = async (urlOverride) => {
   for (const type of gachaType) {
     const { list, uid, region, region_time_zone } = await getGachaLogs(type, queryString)
     const logs = list.map((item) => {
-      const { id, item_id, item_type, name, rank_type, time, gacha_id, gacha_type } = item
-      return { id, item_id, item_type, name, rank_type, time, gacha_id, gacha_type }
+      const { id, item_id, item_type, name, rank_type, time, gacha_id, gacha_type, count} = item
+      return { id, item_id, item_type, name, rank_type, time, gacha_id, gacha_type, count }
     })
     logs.reverse()
     typeMap.set(type.key, type.name)
