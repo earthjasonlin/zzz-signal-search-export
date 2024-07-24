@@ -36,7 +36,8 @@ const start = async (uids) => {
     throw new Error('数据为空')
   }
   const serverTimeZone = new Map([
-    ["prod_gf_cn", 8]
+    ["prod_gf_cn", 8],
+    ["prod_gf_jp", 8]
   ])
   fulldata.forEach(data => {
     let timezone
