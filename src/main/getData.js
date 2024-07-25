@@ -31,7 +31,10 @@ const defaultTypeMap = new Map([
 
 const serverTimeZone = new Map([
   ["prod_gf_cn", 8],
-  ["prod_gf_jp", 8]
+  ["prod_gf_jp", 8],
+  ["prod_gf_us", -5],
+  ["prod_gf_eu", 1],
+  ["prod_gf_sg", 8]
 ])
 
 const convertTimeZone = (dateTimeStr, fromTimeZoneOffset, toTimeZoneOffset) => {
