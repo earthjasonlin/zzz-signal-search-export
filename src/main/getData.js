@@ -29,6 +29,24 @@ const defaultTypeMap = new Map([
   ['5', '邦布频段']
 ])
 
+const serverTimeZone = new Map([
+  ["prod_gf_cn", 8],
+  ["prod_gf_jp", 8]
+])
+
+const convertTimeZone = (dateTimeStr, fromTimeZoneOffset, toTimeZoneOffset) => {
+  let date = new Date(dateTimeStr.replace(' ', 'T') + 'Z');
+  let utcDate = new Date(date.getTime() - fromTimeZoneOffset * 60 * 60 * 1000);
+  let targetDate = new Date(utcDate.getTime() + toTimeZoneOffset * 60 * 60 * 1000);
+  let year = targetDate.getUTCFullYear();
+  let month = String(targetDate.getUTCMonth() + 1).padStart(2, '0');
+  let day = String(targetDate.getUTCDate()).padStart(2, '0');
+  let hours = String(targetDate.getUTCHours()).padStart(2, '0');
+  let minutes = String(targetDate.getUTCMinutes()).padStart(2, '0');
+  let seconds = String(targetDate.getUTCSeconds()).padStart(2, '0');
+  return `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+}
+
 const findDataFiles = async (dataPath, fileMap) => {
   const files = await readdir(dataPath)
   if (files?.length) {
@@ -203,7 +221,6 @@ const getGachaLogs = async ({ name, key }, queryString) => {
   let logs = []
   let uid = ''
   let region = ''
-  let region_time_zone = ''
   let endId = '0'
   const url = `${apiDomain}/common/gacha_record/api/getGachaLog?${queryString}`
   do {
@@ -220,9 +237,6 @@ const getGachaLogs = async ({ name, key }, queryString) => {
     }
     if (!region) {
       region = res.region
-    }
-    if (!region_time_zone) {
-      region_time_zone = res.region_time_zone
     }
     list.push(...logs)
     page += 1
@@ -252,7 +266,7 @@ const getGachaLogs = async ({ name, key }, queryString) => {
       }
     }
   } while (logs.length > 0)
-  return { list, uid, region, region_time_zone }
+  return { list, uid, region }
 }
 
 const checkResStatus = (res) => {
@@ -425,10 +439,25 @@ const fetchData = async (urlOverride) => {
   const typeMap = new Map()
   const lang = searchParams.get('lang')
   let originUid = ''
-  let originRegion = ''
-  let originTimeZone = ''
+  let localTimeZone
   for (const type of gachaType) {
-    const { list, uid, region, region_time_zone } = await getGachaLogs(type, queryString)
+    const { list, uid, region} = await getGachaLogs(type, queryString)
+    const region_time_zone = serverTimeZone.get(region)
+    if(!region_time_zone) {
+      sendMsg('不支持此服务器')
+      console.error('不支持此服务器')
+      return
+    }
+    if (localTimeZone === undefined) {
+      localTimeZone = dataMap.get(uid)?.region_time_zone
+      if (localTimeZone === undefined) {
+        localTimeZone = region_time_zone
+      }
+    }
+    localTimeZone === Number(localTimeZone)
+    list.forEach(item => {
+      item.time = convertTimeZone(item.time, region_time_zone, localTimeZone)
+    })
     const logs = list.map((item) => {
       const { id, item_id, item_type, name, rank_type, time, gacha_id, gacha_type, count} = item
       return { id, item_id, item_type, name, rank_type, time, gacha_id, gacha_type, count }
@@ -439,14 +468,8 @@ const fetchData = async (urlOverride) => {
     if (!originUid) {
       originUid = uid
     }
-    if (!originRegion) {
-      originRegion = region
-    }
-    if (!originTimeZone) {
-      originTimeZone = region_time_zone
-    }
   }
-  const data = { result, typeMap, time: Date.now(), uid: originUid, lang, region: originRegion, region_time_zone: originTimeZone }
+  const data = { result, typeMap, time: Date.now(), uid: originUid, lang, region_time_zone: localTimeZone }
   const localData = dataMap.get(originUid)
   const mergedResult = mergeData(localData, data)
   data.result = mergedResult
@@ -527,5 +550,9 @@ exports.getData = () => {
   }
 }
 
+exports.serverTimeZone = serverTimeZone
 exports.getUrl = getUrl
 exports.deleteData = deleteData
+exports.saveData = saveData
+exports.changeCurrent = changeCurrent
+exports.convertTimeZone = convertTimeZone

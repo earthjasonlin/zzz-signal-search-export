@@ -1,10 +1,12 @@
 const { app, ipcMain, dialog } = require('electron')
 const fs = require('fs-extra')
 const path = require('path')
-const getData = require('./getData').getData
+const { getData, saveData, changeCurrent, convertTimeZone } = require('./getData')
+const config = require('./config')
 const { name, version } = require('../../package.json')
 const i18n = require('./i18n')
-const { exit } = require('process')
+const { mergeData } =  require('./utils/mergeData')
+const { sendMsg } = require('./utils')
 
 const getTimeString = () => {
   return new Date().toLocaleString('sv').replace(/[- :]/g, '').slice(0, -2)
@@ -16,8 +18,7 @@ const formatDate = (date) => {
   let d = `${date.getDate()}`.padStart(2, '0')
   return `${y}-${m}-${d} ${date.toLocaleString('zh-cn', { hour12: false }).slice(-8)}`
 }
-
-const start = async (uids) => {
+const exportUIGF = async (uids) => {
   const result = {
     info: {
       export_timestamp: Math.ceil(Date.now() / 1000),
@@ -35,16 +36,7 @@ const start = async (uids) => {
   if (!fulldata.length) {
     throw new Error('数据为空')
   }
-  const serverTimeZone = new Map([
-    ["prod_gf_cn", 8],
-    ["prod_gf_jp", 8]
-  ])
   fulldata.forEach(data => {
-    let timezone
-    timezone = serverTimeZone.get(data.region)
-    if(!timezone) {
-      throw new Error('不支持此服务器')
-    }
     const listTemp = []
     for (let [type, arr] of data.result) {
       arr.forEach(log => {
@@ -64,7 +56,7 @@ const start = async (uids) => {
     listTemp.sort((a, b) => Number(BigInt(a.id) - BigInt(b.id)))
     let dataTemp = {
       uid: data.uid,
-      timezone: timezone,
+      timezone: data.region_time_zone,
       lang: data.lang,
       list: []
     }
@@ -87,6 +79,83 @@ const start = async (uids) => {
   }
 }
 
+const importUIGF = async () => {
+  const filepath = await dialog.showOpenDialogSync({
+    properties: ['openFile'],
+    filters: [
+      { name: i18n.uigf.fileType, extensions: ['json'] }
+    ]
+  })
+  if (!filepath) return
+  const { dataMap, current } = await getData()
+  try {
+    const jsonData = fs.readJsonSync(filepath[0])
+    if('info' in jsonData && 'version' in jsonData.info) {
+      if (jsonData.info.version !== 'v4.0') {
+        sendMsg('不支持此版本UIGF')
+        console.error('不支持此版本UIGF')
+        return
+      }
+    } else {
+      sendMsg('UIGF格式错误')
+      console.error('UIGF格式错误')
+      return
+    }
+    jsonData.nap.forEach(uidData => {
+      const resultTemp = []
+      const isNew = !Boolean(dataMap.has(uidData.uid))
+      let region_time_zone
+      if (!isNew) region_time_zone = dataMap.get(uidData.uid).region_time_zone
+      else region_time_zone = uidData.timezone
+
+      uidData.list.forEach(recordEntry => {
+        resultTemp.push({
+          gacha_id: recordEntry.gacha_id,
+          gacha_type: recordEntry.gacha_type,
+          item_id: recordEntry.item_id,
+          count: recordEntry.count,
+          time: convertTimeZone(recordEntry.time, uidData.timezone, region_time_zone),
+          name: recordEntry.name,
+          item_type: recordEntry.item_type,
+          rank_type: recordEntry.rank_type,
+          id: recordEntry.id
+        })
+      })
+      const resultTempGrouped = resultTemp.reduce((acc, curr) => {
+        if (!acc[curr.gacha_type]) {
+          acc[curr.gacha_type] = []
+        }
+        acc[curr.gacha_type].push(curr)
+        return acc;
+      }, {})
+      const resultTempMap = new Map(Object.entries(resultTempGrouped))
+      const resultMap = { result: resultTempMap, uid: uidData.uid}
+      let data
+      const mergedData = mergeData(dataMap.get(uidData.uid), resultMap)
+      if (isNew) {
+        data = { result: mergedData, time: Date.now(), uid: uidData.uid, lang: uidData.lang, region_time_zone: uidData.timezone, deleted: false }
+      } else {
+        data = { result: mergedData, time: Date.now(), uid: dataMap.get(uidData.uid).uid, lang: dataMap.get(uidData.uid).lang, region_time_zone: dataMap.get(uidData.uid).region_time_zone, deleted: dataMap.get(uidData.uid).deleted }
+      }
+      
+      saveData(data, '')
+      changeCurrent(uidData.uid)
+      dataMap.set(uidData.uid, data)
+    })
+    return {
+      dataMap,
+      current: config.current
+    }
+  } catch (error) {
+    sendMsg(error, 'ERROR')
+    console.error(error)
+  }
+}
+
 ipcMain.handle('EXPORT_UIGF_JSON', async (event, uids) => {
-  await start(uids)
+  await exportUIGF(uids)
+})
+
+ipcMain.handle('IMPORT_UIGF_JSON', async () => {
+  return await importUIGF()
 })
