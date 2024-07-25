@@ -2,7 +2,7 @@ const fs = require('fs-extra')
 const path = require('path')
 const crypto = require('crypto')
 const AdmZip = require('adm-zip')
-const { version } = require('../package.json')
+const { version, autoUpdateActive, autoUpdateFrom } = require('../package.json')
 
 const hash = (data, type = 'sha256') => {
   const hmac = crypto.createHmac(type, 'nap')
@@ -32,9 +32,9 @@ const start = async () => {
   await fs.copy(zipPath, path.resolve(outputPath, `${hashName}.zip`))
   await fs.remove(zipPath)
   await fs.outputJSON(path.join(outputPath, 'manifest.json'), {
-    active: true,
-    version,
-    from: '0.0.1',
+    active: autoUpdateActive,
+    version: version,
+    from: autoUpdateFrom,
     name: `${hashName}.zip`,
     hash: sha256
   })
