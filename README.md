@@ -6,7 +6,7 @@
 
 一个使用 Electron 制作的小工具，需要在 Windows 操作系统上运行。
 
-通过读取游戏日志或者代理模式获取访问游戏跃迁记录 API 所需的 authKey，然后再使用获取到的 authKey 来读取游戏跃迁记录。
+通过读取游戏日志或者代理模式获取访问游戏调频记录 API 所需的 authKey，然后再使用获取到的 authKey 来读取游戏调频记录。
 
 ## 其它语言
 
@@ -15,7 +15,7 @@
 ## 使用说明
 
 1. 下载工具后解压 - 下载地址: [GitHub](https://github.com/earthjasonlin/zzz-signal-search-export/releases/latest/download/ZzzSignalSearchExport.zip) / [123云盘](https://www.123pan.com/s/Vs9uVv-ShhE.html) / [蓝奏云（密码:zzzz）](https://www.lanzouh.com/b00eewtvxa)
-2. 打开游戏的跃迁详情页面
+2. 打开游戏的调频详情页面
 
    ![详情页面](/docs/wish-history.jpg)
 
@@ -34,7 +34,7 @@
 
 如果需要导出多个账号的数据，可以点击旁边的加号按钮。
 
-然后游戏切换的新账号，再打开跃迁历史记录，工具再点击“加载数据”按钮。
+然后游戏切换的新账号，再打开调频历史记录，工具再点击“加载数据”按钮。
 
 ## Devlopment
 

@@ -6,7 +6,7 @@ This project is modified from the [star-rail-warp-export](https://github.com/biu
 
 A tool made from Electron that runs on the Windows operating system.
 
-Read the game log or proxy to get the authKey needed to access the game warp history API, and then use the authKey to read the game wish history.
+Read the game log or proxy to get the authKey needed to access the game signal search history API, and then use the authKey to read the game wish history.
 
 ## Other languages
 
@@ -18,7 +18,7 @@ If you feel that the existing translation is inappropriate, you can send a pull 
 
 1. Unzip after downloading the tool - [GitHub](https://github.com/earthjasonlin/zzz-signal-search-export/releases/latest/download/ZzzSignalSearchExport.zip)
 
-2. Open the warp details page of the game
+2. Open the signal search details page of the game
 
     ![warp details](/docs/wish-history-en.jpg)
 
