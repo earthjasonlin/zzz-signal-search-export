@@ -384,6 +384,116 @@
       "name": "艾莲",
       "item_type": "代理人",
       "rank_type": 4
+    },
+    "54003": {
+      "name": "恶魔布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53007": {
+      "name": "泪眼布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53005": {
+      "name": "纸壳布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53012": {
+      "name": "气压布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53003": {
+      "name": "寻宝布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53011": {
+      "name": "磁力布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54009": {
+      "name": "共鸣布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "54008": {
+      "name": "插头布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53009": {
+      "name": "飞靶布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54001": {
+      "name": "鲨牙布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53008": {
+      "name": "果核布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54006": {
+      "name": "飚速布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53006": {
+      "name": "纸袋布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53010": {
+      "name": "电击布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54012": {
+      "name": "阿崔巡查",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53002": {
+      "name": "招财布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54002": {
+      "name": "阿全",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53004": {
+      "name": "扑击布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54013": {
+      "name": "左轮布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "54004": {
+      "name": "巴特勒",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53001": {
+      "name": "企鹅布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54005": {
+      "name": "艾米莉安",
+      "item_type": "邦布",
+      "rank_type": 4
     }
   },
   "zh-tw": {
@@ -770,6 +880,116 @@
     "1191": {
       "name": "艾蓮",
       "item_type": "代理人",
+      "rank_type": 4
+    },
+    "54003": {
+      "name": "惡魔布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53007": {
+      "name": "淚眼布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53005": {
+      "name": "紙殼布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53012": {
+      "name": "氣壓布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53003": {
+      "name": "尋寶布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53011": {
+      "name": "磁力布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54009": {
+      "name": "共鳴布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "54008": {
+      "name": "插頭布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53009": {
+      "name": "飛靶布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54001": {
+      "name": "鯊牙布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53008": {
+      "name": "果核布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54006": {
+      "name": "飈速布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53006": {
+      "name": "紙袋布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53010": {
+      "name": "電擊布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54012": {
+      "name": "阿崔巡查",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53002": {
+      "name": "招財布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54002": {
+      "name": "阿全",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53004": {
+      "name": "撲擊布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54013": {
+      "name": "左輪布",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "54004": {
+      "name": "巴特勒",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "53001": {
+      "name": "企鵝布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54005": {
+      "name": "艾米莉安",
+      "item_type": "邦布",
       "rank_type": 4
     }
   },
@@ -1158,6 +1378,116 @@
       "name": "Ellen",
       "item_type": "Agents",
       "rank_type": 4
+    },
+    "54003": {
+      "name": "Devilboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53007": {
+      "name": "Cryboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53005": {
+      "name": "Paperboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53012": {
+      "name": "Booressure",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53003": {
+      "name": "Exploreboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53011": {
+      "name": "Magnetiboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54009": {
+      "name": "Resonaboo",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "54008": {
+      "name": "Plugboo",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "53009": {
+      "name": "Boollseye",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54001": {
+      "name": "Sharkboo",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "53008": {
+      "name": "Avocaboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54006": {
+      "name": "Rocketboo",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "53006": {
+      "name": "Bagboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53010": {
+      "name": "Electroboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54012": {
+      "name": "...",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "53002": {
+      "name": "Luckyboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54002": {
+      "name": "Safety",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "53004": {
+      "name": "Sumoboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54013": {
+      "name": "Bangvolver",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "54004": {
+      "name": "Butler",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "53001": {
+      "name": "Penguinboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54005": {
+      "name": "Amillion",
+      "item_type": "Bangboo",
+      "rank_type": 4
     }
   },
   "ja-jp": {
@@ -1545,6 +1875,116 @@
       "name": "エレン",
       "item_type": "エージェント",
       "rank_type": 4
+    },
+    "54003": {
+      "name": "アクマデボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53007": {
+      "name": "ウルリンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53005": {
+      "name": "ハコイリボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53012": {
+      "name": "キアツデボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53003": {
+      "name": "タンケンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53011": {
+      "name": "クッツキボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54009": {
+      "name": "レゾナンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "54008": {
+      "name": "プラグノボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "53009": {
+      "name": "ズバットボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54001": {
+      "name": "ガブットボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "53008": {
+      "name": "アボカドボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54006": {
+      "name": "ハヤスギボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "53006": {
+      "name": "フクロノボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53010": {
+      "name": "ビリビリボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54012": {
+      "name": "...",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "53002": {
+      "name": "オマネキボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54002": {
+      "name": "ゴアンゼン",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "53004": {
+      "name": "オスモウボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54013": {
+      "name": "リボルバボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "54004": {
+      "name": "バトラー",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "53001": {
+      "name": "ペンギンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54005": {
+      "name": "アミリオン",
+      "item_type": "ボンプ",
+      "rank_type": 4
     }
   },
   "ko-kr": {
@@ -1931,6 +2371,116 @@
     "1191": {
       "name": "엘렌",
       "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "54003": {
+      "name": "데빌부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53007": {
+      "name": "울보부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53005": {
+      "name": "종이부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53012": {
+      "name": "압력부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53003": {
+      "name": "탐험부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53011": {
+      "name": "자석부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54009": {
+      "name": "공명부",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "54008": {
+      "name": "플러그부",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "53009": {
+      "name": "과녁부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54001": {
+      "name": "샤크부",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "53008": {
+      "name": "아보카부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54006": {
+      "name": "날쌘부",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "53006": {
+      "name": "봉투부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53010": {
+      "name": "찌릿부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54012": {
+      "name": "...",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "53002": {
+      "name": "럭키부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54002": {
+      "name": "세이프티",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "53004": {
+      "name": "스모부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54013": {
+      "name": "리볼버부",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "54004": {
+      "name": "버틀러",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "53001": {
+      "name": "펭귄부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54005": {
+      "name": "에밀리온",
+      "item_type": "「Bangboo」",
       "rank_type": 4
     }
   }

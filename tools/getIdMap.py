@@ -8,6 +8,7 @@ cc = OpenCC('s2t')
 # 获取 JSON 数据
 weapon_url = 'https://api.hakush.in/zzz/data/weapon.json'
 character_url = 'https://api.hakush.in/zzz/data/character.json'
+bangboo_url = 'https://api.hakush.in/zzz/data/bangboo.json'
 
 # 语言映射配置
 language_map = {
@@ -21,7 +22,8 @@ language_map = {
 # 类型映射配置
 type_map = {
     "weapon": {"zh-cn": "音擎", "zh-tw": "音擎", "en-us": "W-Engines", "ja-jp": "音動機", "ko-kr": "W-엔진"},
-    "character": {"zh-cn": "代理人", "zh-tw": "代理人", "en-us": "Agents", "ja-jp": "エージェント", "ko-kr": "에이전트"}
+    "character": {"zh-cn": "代理人", "zh-tw": "代理人", "en-us": "Agents", "ja-jp": "エージェント", "ko-kr": "에이전트"},
+    "bangboo": {"zh-cn": "邦布", "zh-tw": "邦布", "en-us": "Bangboo", "ja-jp": "ボンプ", "ko-kr": "「Bangboo」"}
 }
 
 def fetch_json(url):
@@ -45,15 +47,18 @@ def main():
     try:
         weapon_data = fetch_json(weapon_url)
         character_data = fetch_json(character_url)
+        bangboo_data = fetch_json(bangboo_url)
 
         transformed_data = {lang: {} for lang in language_map.keys()}
 
         weapon_transformed = transform_data(weapon_data, "weapon")
         character_transformed = transform_data(character_data, "character")
+        bangboo_transformed = transform_data(bangboo_data, "bangboo")
 
         for lang in language_map.keys():
             transformed_data[lang].update(weapon_transformed[lang])
             transformed_data[lang].update(character_transformed[lang])
+            transformed_data[lang].update(bangboo_transformed[lang])
 
         with open('./src/idJson.json', 'w', encoding='utf-8') as f:
             json.dump(transformed_data, f, ensure_ascii=False, indent=2)
