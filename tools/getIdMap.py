@@ -1,5 +1,8 @@
-import requests
+# pylint: disable=C0116, C0103, C0201
+"""Download and process data from the Hakushin API"""
+
 import json
+import requests
 from opencc import OpenCC
 
 # 初始化 OpenCC 转换器
@@ -22,21 +25,23 @@ language_map = {
 # 类型映射配置
 type_map = {
     "weapon": {"zh-cn": "音擎", "zh-tw": "音擎", "en-us": "W-Engines", "ja-jp": "音動機", "ko-kr": "W-엔진"},
-    "character": {"zh-cn": "代理人", "zh-tw": "代理人", "en-us": "Agents", "ja-jp": "エージェント", "ko-kr": "에이전트"},
-    "bangboo": {"zh-cn": "邦布", "zh-tw": "邦布", "en-us": "Bangboo", "ja-jp": "ボンプ", "ko-kr": "「Bangboo」"}
+    "character": {"zh-cn": "代理人", "zh-tw": "代理人", "en-us": "Agents",
+                  "ja-jp": "エージェント", "ko-kr": "에이전트"},
+    "bangboo": {"zh-cn": "邦布", "zh-tw": "邦布", "en-us": "Bangboo", 
+                "ja-jp": "ボンプ", "ko-kr": "「Bangboo」"}
 }
 
 def fetch_json(url):
-    response = requests.get(url)
+    response = requests.get(url, timeout=10)
     response.raise_for_status()
     return response.json()
 
 def transform_data(data, item_type):
     transformed = {lang: {} for lang in language_map.keys()}
-    for id, item in data.items():
+    for id_, item in data.items():
         for lang, key in language_map.items():
             name = item[key] if lang != 'zh-tw' else cc.convert(item['CHS'])
-            transformed[lang][id] = {
+            transformed[lang][id_] = {
                 "name": name,
                 "item_type": type_map[item_type][lang],
                 "rank_type": item['rank']
