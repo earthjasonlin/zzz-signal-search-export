@@ -114,7 +114,7 @@ const changeCurrent = async (uid) => {
 const detectGameLocale = async (userPath) => {
   let list = []
   const lang = app.getLocale()
-  const arr = ['/miHoYo/绝区零/', '/Cognosphere/Zenless Zone Zero/']
+  const arr = ['/miHoYo/绝区零/', '/miHoYo/ZenlessZoneZero/']
   arr.forEach(str => {
     try {
       const pathname = path.join(userPath, '/AppData/LocalLow/', str, 'Player.log')
