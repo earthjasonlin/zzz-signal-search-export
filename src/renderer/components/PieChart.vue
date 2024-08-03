@@ -32,7 +32,7 @@ const props = defineProps({
 
 const chart = ref(null);
 
-const colors = ["#eeaa66", "#fac858", "#ee6666", "#5470c6", "#ba66ee", "#91cc75", "#73c0de"];
+const colors = ["#fac858", "#fac858", "#ee6666", "#5470c6", "#5470c6", "#91cc75", "#73c0de"];
 
 const parseData = (detail, type) => {
   const text = props.i18n.ui.data;
