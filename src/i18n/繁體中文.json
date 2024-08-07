@@ -3,7 +3,7 @@
   "ui.button.load": "加載數據",
   "ui.button.update": "更新數據",
   "ui.button.directUpdate": "直接更新",
-  "ui.button.files": "導出文件",
+  "ui.button.files": "導入/匯出",
   "ui.button.excel": "導出Excel",
   "ui.button.uigf":"導出UIGF",
   "ui.button.import":"導入UIGF",
