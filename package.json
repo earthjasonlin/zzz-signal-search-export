@@ -1,6 +1,6 @@
 {
   "name": "zzz-signal-search-export",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "autoUpdateActive": true,
   "autoUpdateFrom": "1.1.0",
   "main": "./dist/electron/main/main.js",
