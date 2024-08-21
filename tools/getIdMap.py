@@ -12,6 +12,7 @@ cc = OpenCC('s2t')
 weapon_url = 'https://api.hakush.in/zzz/data/weapon.json'
 character_url = 'https://api.hakush.in/zzz/data/character.json'
 bangboo_url = 'https://api.hakush.in/zzz/data/bangboo.json'
+version_url = 'https://api.hakush.in/zzz/new.json'
 
 # 语言映射配置
 language_map = {
@@ -53,8 +54,11 @@ def main():
         weapon_data = fetch_json(weapon_url)
         character_data = fetch_json(character_url)
         bangboo_data = fetch_json(bangboo_url)
+        version_data = fetch_json(version_url)
 
         transformed_data = {lang: {} for lang in language_map.keys()}
+
+        transformed_data["version"] = version_data["version"]
 
         weapon_transformed = transform_data(weapon_data, "weapon")
         character_transformed = transform_data(character_data, "character")

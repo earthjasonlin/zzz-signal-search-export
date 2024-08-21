@@ -47,6 +47,7 @@
       </el-form-item>
     </el-form>
     <h3 class="text-lg my-4">{{about.title}}</h3>
+    <p class="text-gray-600 text-xs mt-1">{{text.idVersion}} {{idJson.version}}</p>
     <p class="text-gray-600 text-xs mt-1">{{about.license}}</p>
     <p class="text-gray-600 text-xs mt-1">GitHub: <a @click="openGithub" class="cursor-pointer text-blue-400">https://github.com/earthjasonlin/zzz-signal-search-export</a></p>
     <p class="text-gray-600 text-xs mt-1 pb-6">UIGF: <a @click="openUIGF" class="cursor-pointer text-blue-400">https://uigf.org/</a></p>
@@ -82,6 +83,7 @@
 
 <script setup>
 const { ipcRenderer, shell } = require('electron')
+import idJson from '../../idJson.json'
 import { reactive, onMounted, computed } from 'vue'
 
 const emit = defineEmits(['close', 'changeLang', 'refreshData'])

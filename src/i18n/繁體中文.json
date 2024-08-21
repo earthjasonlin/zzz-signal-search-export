@@ -55,6 +55,7 @@
   "ui.setting.fetchFullHistoryHint": "開啟時點擊「更新數據」按鈕會完整獲取6個月內所有的抽卡記錄，當記錄裏有6個月範圍以內的錯誤數據時可以通過這個功能修復。",
   "ui.setting.closeProxy": "關閉系統代理",
   "ui.setting.closeProxyHint": "如果使用過代理模式時工具非正常關閉，可能導致系統代理設置沒能清除，可以通過這個按鈕來清除設置過的系統代理。",
+  "ui.setting.idVersion": "ID 數據庫版本",
   "ui.about.title": "關於",
   "ui.about.license": "本工具為開源軟件，源代碼使用 MIT 協議授權",
   "ui.urlDialog.title": "手動輸入URL",

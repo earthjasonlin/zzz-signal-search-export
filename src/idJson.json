@@ -15,6 +15,11 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "14107": {
+      "name": "奔袭獠牙",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13103": {
       "name": "聚宝箱",
       "item_type": "音擎",
@@ -110,6 +115,11 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14117": {
+      "name": "灼心摇壶",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "14124": {
       "name": "防暴者Ⅵ型",
       "item_type": "音擎",
@@ -181,7 +191,7 @@
       "rank_type": 3
     },
     "13013": {
-      "name": "鸢尾秘藏",
+      "name": "鎏金花信",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -291,9 +301,9 @@
       "rank_type": 3
     },
     "1071": {
-      "name": "...",
+      "name": "凯撒",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "2021": {
       "name": "铃",
@@ -376,9 +386,9 @@
       "rank_type": 3
     },
     "1171": {
-      "name": "...",
+      "name": "柏妮思",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1191": {
       "name": "艾莲",
@@ -494,6 +504,11 @@
       "name": "艾米莉安",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "54011": {
+      "name": "赤红莫库斯",
+      "item_type": "邦布",
+      "rank_type": 4
     }
   },
   "zh-tw": {
@@ -511,6 +526,11 @@
       "name": "「湍流」-斧型",
       "item_type": "音擎",
       "rank_type": 2
+    },
+    "14107": {
+      "name": "奔襲獠牙",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "13103": {
       "name": "聚寶箱",
@@ -607,6 +627,11 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14117": {
+      "name": "灼心搖壺",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "14124": {
       "name": "防暴者Ⅵ型",
       "item_type": "音擎",
@@ -678,7 +703,7 @@
       "rank_type": 3
     },
     "13013": {
-      "name": "鳶尾祕藏",
+      "name": "鎏金花信",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -788,9 +813,9 @@
       "rank_type": 3
     },
     "1071": {
-      "name": "...",
+      "name": "凱撒",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "2021": {
       "name": "鈴",
@@ -873,9 +898,9 @@
       "rank_type": 3
     },
     "1171": {
-      "name": "...",
+      "name": "柏妮思",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1191": {
       "name": "艾蓮",
@@ -991,6 +1016,11 @@
       "name": "艾米莉安",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "54011": {
+      "name": "赤紅莫庫斯",
+      "item_type": "邦布",
+      "rank_type": 4
     }
   },
   "en-us": {
@@ -1008,6 +1038,11 @@
       "name": "[Vortex] Hatchet",
       "item_type": "W-Engines",
       "rank_type": 2
+    },
+    "14107": {
+      "name": "Item_Weapon_S_1071_Name",
+      "item_type": "W-Engines",
+      "rank_type": 4
     },
     "13103": {
       "name": "The Vault",
@@ -1104,6 +1139,11 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14117": {
+      "name": "Item_Weapon_S_1171_Name",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "14124": {
       "name": "Riot Suppressor Mark VI",
       "item_type": "W-Engines",
@@ -1145,7 +1185,7 @@
       "rank_type": 3
     },
     "13127": {
-      "name": "Item_Weapon_A_1271_Name",
+      "name": "Peacekeeper - Specialized",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -1175,7 +1215,7 @@
       "rank_type": 3
     },
     "13013": {
-      "name": "...",
+      "name": "Gilded Blossom",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -1185,7 +1225,7 @@
       "rank_type": 2
     },
     "14126": {
-      "name": "Item_Weapon_S_1261_Name",
+      "name": "Sharpened Stinger",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1210,7 +1250,7 @@
       "rank_type": 3
     },
     "14125": {
-      "name": "Item_Weapon_S_1251_Name",
+      "name": "Ice-Jade Teapot",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1250,7 +1290,7 @@
       "rank_type": 4
     },
     "1261": {
-      "name": "...",
+      "name": "Jane",
       "item_type": "Agents",
       "rank_type": 4
     },
@@ -1285,9 +1325,9 @@
       "rank_type": 3
     },
     "1071": {
-      "name": "...",
+      "name": "Caesar",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 4
     },
     "2021": {
       "name": "Belle",
@@ -1370,9 +1410,9 @@
       "rank_type": 3
     },
     "1171": {
-      "name": "...",
+      "name": "Burnice",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 4
     },
     "1191": {
       "name": "Ellen",
@@ -1450,7 +1490,7 @@
       "rank_type": 3
     },
     "54012": {
-      "name": "...",
+      "name": "Officer Cui",
       "item_type": "Bangboo",
       "rank_type": 4
     },
@@ -1488,6 +1528,11 @@
       "name": "Amillion",
       "item_type": "Bangboo",
       "rank_type": 4
+    },
+    "54011": {
+      "name": "Bangboo_Name_54011",
+      "item_type": "Bangboo",
+      "rank_type": 4
     }
   },
   "ja-jp": {
@@ -1505,6 +1550,11 @@
       "name": "「激流」-斧型",
       "item_type": "音動機",
       "rank_type": 2
+    },
+    "14107": {
+      "name": "Item_Weapon_S_1071_Name",
+      "item_type": "音動機",
+      "rank_type": 4
     },
     "13103": {
       "name": "ザ・ボールト",
@@ -1601,6 +1651,11 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14117": {
+      "name": "Item_Weapon_S_1171_Name",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "14124": {
       "name": "サプレッサーⅥ型",
       "item_type": "音動機",
@@ -1642,7 +1697,7 @@
       "rank_type": 3
     },
     "13127": {
-      "name": "Item_Weapon_A_1271_Name",
+      "name": "秩序の守り手・特化型",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -1672,7 +1727,7 @@
       "rank_type": 3
     },
     "13013": {
-      "name": "...",
+      "name": "金メッキの花信",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -1682,7 +1737,7 @@
       "rank_type": 2
     },
     "14126": {
-      "name": "Item_Weapon_S_1261_Name",
+      "name": "磨き抜かれた切っ先",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1707,7 +1762,7 @@
       "rank_type": 3
     },
     "14125": {
-      "name": "Item_Weapon_S_1251_Name",
+      "name": "玉壺青氷",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1747,7 +1802,7 @@
       "rank_type": 4
     },
     "1261": {
-      "name": "...",
+      "name": "ジェーン",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -1782,9 +1837,9 @@
       "rank_type": 3
     },
     "1071": {
-      "name": "...",
+      "name": "シーザー",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 4
     },
     "2021": {
       "name": "リン",
@@ -1867,9 +1922,9 @@
       "rank_type": 3
     },
     "1171": {
-      "name": "...",
+      "name": "バーニス",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 4
     },
     "1191": {
       "name": "エレン",
@@ -1947,7 +2002,7 @@
       "rank_type": 3
     },
     "54012": {
-      "name": "...",
+      "name": "ツェイ巡査",
       "item_type": "ボンプ",
       "rank_type": 4
     },
@@ -1985,6 +2040,11 @@
       "name": "アミリオン",
       "item_type": "ボンプ",
       "rank_type": 4
+    },
+    "54011": {
+      "name": "Bangboo_Name_54011",
+      "item_type": "ボンプ",
+      "rank_type": 4
     }
   },
   "ko-kr": {
@@ -2002,6 +2062,11 @@
       "name": "「급류」-도끼",
       "item_type": "W-엔진",
       "rank_type": 2
+    },
+    "14107": {
+      "name": "Item_Weapon_S_1071_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
     },
     "13103": {
       "name": "보물함",
@@ -2098,6 +2163,11 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14117": {
+      "name": "Item_Weapon_S_1171_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "14124": {
       "name": "서프레서 Ⅵ형",
       "item_type": "W-엔진",
@@ -2139,7 +2209,7 @@
       "rank_type": 3
     },
     "13127": {
-      "name": "Item_Weapon_A_1271_Name",
+      "name": "평화 수호자-특화형",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -2159,7 +2229,7 @@
       "rank_type": 2
     },
     "13115": {
-      "name": "용맹한 꽝꽝이",
+      "name": "호전적인 꽝꽝이",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -2169,7 +2239,7 @@
       "rank_type": 3
     },
     "13013": {
-      "name": "...",
+      "name": "도금된 화신풍",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -2179,7 +2249,7 @@
       "rank_type": 2
     },
     "14126": {
-      "name": "Item_Weapon_S_1261_Name",
+      "name": "예리한 집게칼",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2204,7 +2274,7 @@
       "rank_type": 3
     },
     "14125": {
-      "name": "Item_Weapon_S_1251_Name",
+      "name": "맑은 옥주전자",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2244,7 +2314,7 @@
       "rank_type": 4
     },
     "1261": {
-      "name": "...",
+      "name": "제인",
       "item_type": "에이전트",
       "rank_type": 4
     },
@@ -2279,9 +2349,9 @@
       "rank_type": 3
     },
     "1071": {
-      "name": "...",
+      "name": "카이사르",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 4
     },
     "2021": {
       "name": "벨",
@@ -2364,9 +2434,9 @@
       "rank_type": 3
     },
     "1171": {
-      "name": "...",
+      "name": "버니스",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 4
     },
     "1191": {
       "name": "엘렌",
@@ -2444,7 +2514,7 @@
       "rank_type": 3
     },
     "54012": {
-      "name": "...",
+      "name": "최 순찰대원",
       "item_type": "「Bangboo」",
       "rank_type": 4
     },
@@ -2482,6 +2552,12 @@
       "name": "에밀리온",
       "item_type": "「Bangboo」",
       "rank_type": 4
+    },
+    "54011": {
+      "name": "Bangboo_Name_54011",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
     }
-  }
+  },
+  "version": "1.2.1"
 }
