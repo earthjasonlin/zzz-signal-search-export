@@ -365,6 +365,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1351": {
+      "name": "波可娜",
+      "item_type": "代理人",
+      "rank_type": null
+    },
     "1151": {
       "name": "露西",
       "item_type": "代理人",
@@ -877,6 +882,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1351": {
+      "name": "波可娜",
+      "item_type": "代理人",
+      "rank_type": null
+    },
     "1151": {
       "name": "露西",
       "item_type": "代理人",
@@ -1040,7 +1050,7 @@
       "rank_type": 2
     },
     "14107": {
-      "name": "Item_Weapon_S_1071_Name",
+      "name": "...",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1140,7 +1150,7 @@
       "rank_type": 4
     },
     "14117": {
-      "name": "Item_Weapon_S_1171_Name",
+      "name": "...",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1389,6 +1399,11 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1351": {
+      "name": "Avatar_Female_Size03_Pulchra",
+      "item_type": "Agents",
+      "rank_type": null
+    },
     "1151": {
       "name": "Lucy",
       "item_type": "Agents",
@@ -1530,7 +1545,7 @@
       "rank_type": 4
     },
     "54011": {
-      "name": "Bangboo_Name_54011",
+      "name": "...",
       "item_type": "Bangboo",
       "rank_type": 4
     }
@@ -1552,7 +1567,7 @@
       "rank_type": 2
     },
     "14107": {
-      "name": "Item_Weapon_S_1071_Name",
+      "name": "...",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1652,7 +1667,7 @@
       "rank_type": 4
     },
     "14117": {
-      "name": "Item_Weapon_S_1171_Name",
+      "name": "...",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1901,6 +1916,11 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1351": {
+      "name": "...",
+      "item_type": "エージェント",
+      "rank_type": null
+    },
     "1151": {
       "name": "ルーシー",
       "item_type": "エージェント",
@@ -2042,7 +2062,7 @@
       "rank_type": 4
     },
     "54011": {
-      "name": "Bangboo_Name_54011",
+      "name": "...",
       "item_type": "ボンプ",
       "rank_type": 4
     }
@@ -2064,7 +2084,7 @@
       "rank_type": 2
     },
     "14107": {
-      "name": "Item_Weapon_S_1071_Name",
+      "name": "...",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2164,7 +2184,7 @@
       "rank_type": 4
     },
     "14117": {
-      "name": "Item_Weapon_S_1171_Name",
+      "name": "...",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2413,6 +2433,11 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1351": {
+      "name": "...",
+      "item_type": "에이전트",
+      "rank_type": null
+    },
     "1151": {
       "name": "루시",
       "item_type": "에이전트",
@@ -2554,10 +2579,10 @@
       "rank_type": 4
     },
     "54011": {
-      "name": "Bangboo_Name_54011",
+      "name": "...",
       "item_type": "「Bangboo」",
       "rank_type": 4
     }
   },
-  "version": "1.2.1"
+  "version": "1.2.3"
 }
