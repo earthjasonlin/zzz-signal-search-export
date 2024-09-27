@@ -1050,7 +1050,7 @@
       "rank_type": 2
     },
     "14107": {
-      "name": "...",
+      "name": "Tusks of Fury",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1150,7 +1150,7 @@
       "rank_type": 4
     },
     "14117": {
-      "name": "...",
+      "name": "Flamemaker Shaker",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1400,7 +1400,7 @@
       "rank_type": 4
     },
     "1351": {
-      "name": "Avatar_Female_Size03_Pulchra",
+      "name": "Pulchra",
       "item_type": "Agents",
       "rank_type": null
     },
@@ -1545,7 +1545,7 @@
       "rank_type": 4
     },
     "54011": {
-      "name": "...",
+      "name": "Red Moccus",
       "item_type": "Bangboo",
       "rank_type": 4
     }
@@ -1567,7 +1567,7 @@
       "rank_type": 2
     },
     "14107": {
-      "name": "...",
+      "name": "猛進するキバ",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1667,7 +1667,7 @@
       "rank_type": 4
     },
     "14117": {
-      "name": "...",
+      "name": "バーニング・シェイカー",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1917,7 +1917,7 @@
       "rank_type": 4
     },
     "1351": {
-      "name": "...",
+      "name": "プルクラ",
       "item_type": "エージェント",
       "rank_type": null
     },
@@ -2062,7 +2062,7 @@
       "rank_type": 4
     },
     "54011": {
-      "name": "...",
+      "name": "真紅のモックス",
       "item_type": "ボンプ",
       "rank_type": 4
     }
@@ -2084,7 +2084,7 @@
       "rank_type": 2
     },
     "14107": {
-      "name": "...",
+      "name": "저돌적인 송곳니",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2184,7 +2184,7 @@
       "rank_type": 4
     },
     "14117": {
-      "name": "...",
+      "name": "타오르는 셰이커",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2434,7 +2434,7 @@
       "rank_type": 4
     },
     "1351": {
-      "name": "...",
+      "name": "펄크라",
       "item_type": "에이전트",
       "rank_type": null
     },
@@ -2579,10 +2579,10 @@
       "rank_type": 4
     },
     "54011": {
-      "name": "...",
+      "name": "레드모쿠스",
       "item_type": "「Bangboo」",
       "rank_type": 4
     }
   },
-  "version": "1.2.3"
+  "version": "1.2"
 }
