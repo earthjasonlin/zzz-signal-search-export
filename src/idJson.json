@@ -65,6 +65,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "14116": {
+      "name": "焰心桂冠",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13011": {
       "name": "春日融融",
       "item_type": "音擎",
@@ -72,6 +77,21 @@
     },
     "14102": {
       "name": "钢铁肉垫",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "13015": {
+      "name": "强音热望",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "14122": {
+      "name": "时流贤者",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14120": {
+      "name": "残心青囊",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -144,6 +164,11 @@
       "name": "「残响」-Ⅲ型",
       "item_type": "音擎",
       "rank_type": 2
+    },
+    "14109": {
+      "name": "霰落星殿",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "13004": {
       "name": "星徽引擎",
@@ -278,7 +303,7 @@
     "1201": {
       "name": "悠真",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1081": {
       "name": "比利",
@@ -338,7 +363,7 @@
     "1161": {
       "name": "莱特",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1111": {
       "name": "安东",
@@ -353,7 +378,7 @@
     "1091": {
       "name": "雅",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1121": {
       "name": "本",
@@ -383,7 +408,7 @@
     "1221": {
       "name": "柳",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1271": {
       "name": "赛斯",
@@ -407,6 +432,11 @@
     },
     "53007": {
       "name": "泪眼布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53017": {
+      "name": "骑士布",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -445,6 +475,11 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "54014": {
+      "name": "格列佛探员",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
     "54001": {
       "name": "鲨牙布",
       "item_type": "邦布",
@@ -474,6 +509,11 @@
       "name": "阿崔巡查",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "53013": {
+      "name": "不良布",
+      "item_type": "邦布",
+      "rank_type": 3
     },
     "53002": {
       "name": "招财布",
@@ -505,10 +545,20 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "53015": {
+      "name": "格斗布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
     "54005": {
       "name": "艾米莉安",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "55001": {
+      "name": "伊埃斯",
+      "item_type": "邦布",
+      "rank_type": 3
     },
     "54011": {
       "name": "赤红莫库斯",
@@ -582,6 +632,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "14116": {
+      "name": "焰心桂冠",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13011": {
       "name": "春日融融",
       "item_type": "音擎",
@@ -589,6 +644,21 @@
     },
     "14102": {
       "name": "鋼鐵肉墊",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "13015": {
+      "name": "強音熱望",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "14122": {
+      "name": "時流賢者",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14120": {
+      "name": "殘心青囊",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -661,6 +731,11 @@
       "name": "「殘響」-Ⅲ型",
       "item_type": "音擎",
       "rank_type": 2
+    },
+    "14109": {
+      "name": "霰落星殿",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "13004": {
       "name": "星徽引擎",
@@ -795,7 +870,7 @@
     "1201": {
       "name": "悠真",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1081": {
       "name": "比利",
@@ -855,7 +930,7 @@
     "1161": {
       "name": "萊特",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1111": {
       "name": "安東",
@@ -870,7 +945,7 @@
     "1091": {
       "name": "雅",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1121": {
       "name": "本",
@@ -900,7 +975,7 @@
     "1221": {
       "name": "柳",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 4
     },
     "1271": {
       "name": "賽斯",
@@ -924,6 +999,11 @@
     },
     "53007": {
       "name": "淚眼布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53017": {
+      "name": "騎士布",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -962,6 +1042,11 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "54014": {
+      "name": "格列佛探員",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
     "54001": {
       "name": "鯊牙布",
       "item_type": "邦布",
@@ -991,6 +1076,11 @@
       "name": "阿崔巡查",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "53013": {
+      "name": "不良布",
+      "item_type": "邦布",
+      "rank_type": 3
     },
     "53002": {
       "name": "招財布",
@@ -1022,10 +1112,20 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "53015": {
+      "name": "格鬥布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
     "54005": {
       "name": "艾米莉安",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "55001": {
+      "name": "伊埃斯",
+      "item_type": "邦布",
+      "rank_type": 3
     },
     "54011": {
       "name": "赤紅莫庫斯",
@@ -1099,6 +1199,11 @@
       "item_type": "W-Engines",
       "rank_type": 3
     },
+    "14116": {
+      "name": "Blazing Laurel",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "13011": {
       "name": "Spring Embrace",
       "item_type": "W-Engines",
@@ -1106,6 +1211,21 @@
     },
     "14102": {
       "name": "Steel Cushion",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "13015": {
+      "name": "Item_Weapon_A_Common_15_Name",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
+    "14122": {
+      "name": "Timeweaver",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14120": {
+      "name": "Item_Weapon_S_1201_Name",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1178,6 +1298,11 @@
       "name": "[Reverb] Mark III",
       "item_type": "W-Engines",
       "rank_type": 2
+    },
+    "14109": {
+      "name": "Item_Weapon_S_1091_Name",
+      "item_type": "W-Engines",
+      "rank_type": 4
     },
     "13004": {
       "name": "Starlight Engine",
@@ -1312,7 +1437,7 @@
     "1201": {
       "name": "Harumasa",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 4
     },
     "1081": {
       "name": "Billy",
@@ -1372,7 +1497,7 @@
     "1161": {
       "name": "Lighter",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 4
     },
     "1111": {
       "name": "Anton",
@@ -1387,7 +1512,7 @@
     "1091": {
       "name": "Miyabi",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 4
     },
     "1121": {
       "name": "Ben",
@@ -1417,7 +1542,7 @@
     "1221": {
       "name": "Yanagi",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 4
     },
     "1271": {
       "name": "Seth",
@@ -1441,6 +1566,11 @@
     },
     "53007": {
       "name": "Cryboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53017": {
+      "name": "Knightboo",
       "item_type": "Bangboo",
       "rank_type": 3
     },
@@ -1479,6 +1609,11 @@
       "item_type": "Bangboo",
       "rank_type": 3
     },
+    "54014": {
+      "name": "Agent Gulliver",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
     "54001": {
       "name": "Sharkboo",
       "item_type": "Bangboo",
@@ -1508,6 +1643,11 @@
       "name": "Officer Cui",
       "item_type": "Bangboo",
       "rank_type": 4
+    },
+    "53013": {
+      "name": "Baddieboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
     },
     "53002": {
       "name": "Luckyboo",
@@ -1539,10 +1679,20 @@
       "item_type": "Bangboo",
       "rank_type": 3
     },
+    "53015": {
+      "name": "Bangboo_Name_53015",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
     "54005": {
       "name": "Amillion",
       "item_type": "Bangboo",
       "rank_type": 4
+    },
+    "55001": {
+      "name": "Eous",
+      "item_type": "Bangboo",
+      "rank_type": 3
     },
     "54011": {
       "name": "Red Moccus",
@@ -1616,6 +1766,11 @@
       "item_type": "音動機",
       "rank_type": 3
     },
+    "14116": {
+      "name": "炎心の桂冠",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "13011": {
       "name": "ホットスプリング",
       "item_type": "音動機",
@@ -1623,6 +1778,21 @@
     },
     "14102": {
       "name": "鋼の肉球",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "13015": {
+      "name": "Item_Weapon_A_Common_15_Name",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
+    "14122": {
+      "name": "刻流の賢者",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14120": {
+      "name": "Item_Weapon_S_1201_Name",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1695,6 +1865,11 @@
       "name": "「残響」-Ⅲ型",
       "item_type": "音動機",
       "rank_type": 2
+    },
+    "14109": {
+      "name": "Item_Weapon_S_1091_Name",
+      "item_type": "音動機",
+      "rank_type": 4
     },
     "13004": {
       "name": "スターライトエンジン",
@@ -1829,7 +2004,7 @@
     "1201": {
       "name": "悠真",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 4
     },
     "1081": {
       "name": "ビリー",
@@ -1889,7 +2064,7 @@
     "1161": {
       "name": "ライト",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 4
     },
     "1111": {
       "name": "アンドー",
@@ -1904,7 +2079,7 @@
     "1091": {
       "name": "雅",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 4
     },
     "1121": {
       "name": "ベン",
@@ -1932,9 +2107,9 @@
       "rank_type": 4
     },
     "1221": {
-      "name": "柳",
+      "name": "月城柳",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 4
     },
     "1271": {
       "name": "セス",
@@ -1958,6 +2133,11 @@
     },
     "53007": {
       "name": "ウルリンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53017": {
+      "name": "キシドウボンプ",
       "item_type": "ボンプ",
       "rank_type": 3
     },
@@ -1996,6 +2176,11 @@
       "item_type": "ボンプ",
       "rank_type": 3
     },
+    "54014": {
+      "name": "ガリバー隊員",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
     "54001": {
       "name": "ガブットボンプ",
       "item_type": "ボンプ",
@@ -2025,6 +2210,11 @@
       "name": "ツェイ巡査",
       "item_type": "ボンプ",
       "rank_type": 4
+    },
+    "53013": {
+      "name": "カチコミボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
     },
     "53002": {
       "name": "オマネキボンプ",
@@ -2056,10 +2246,20 @@
       "item_type": "ボンプ",
       "rank_type": 3
     },
+    "53015": {
+      "name": "Bangboo_Name_53015",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
     "54005": {
       "name": "アミリオン",
       "item_type": "ボンプ",
       "rank_type": 4
+    },
+    "55001": {
+      "name": "イアス",
+      "item_type": "ボンプ",
+      "rank_type": 3
     },
     "54011": {
       "name": "真紅のモックス",
@@ -2133,6 +2333,11 @@
       "item_type": "W-엔진",
       "rank_type": 3
     },
+    "14116": {
+      "name": "화염의 월계관",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "13011": {
       "name": "봄날의 포옹",
       "item_type": "W-엔진",
@@ -2140,6 +2345,21 @@
     },
     "14102": {
       "name": "스틸 쿠션",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "13015": {
+      "name": "Item_Weapon_A_Common_15_Name",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
+    "14122": {
+      "name": "시류의 현자",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14120": {
+      "name": "Item_Weapon_S_1201_Name",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2212,6 +2432,11 @@
       "name": "「잔향」-Ⅲ형",
       "item_type": "W-엔진",
       "rank_type": 2
+    },
+    "14109": {
+      "name": "Item_Weapon_S_1091_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
     },
     "13004": {
       "name": "별빛 엔진",
@@ -2346,7 +2571,7 @@
     "1201": {
       "name": "하루마사",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 4
     },
     "1081": {
       "name": "빌리",
@@ -2406,7 +2631,7 @@
     "1161": {
       "name": "라이터",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 4
     },
     "1111": {
       "name": "앤톤",
@@ -2421,7 +2646,7 @@
     "1091": {
       "name": "미야비",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 4
     },
     "1121": {
       "name": "벤",
@@ -2451,7 +2676,7 @@
     "1221": {
       "name": "야나기",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 4
     },
     "1271": {
       "name": "세스",
@@ -2475,6 +2700,11 @@
     },
     "53007": {
       "name": "울보부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53017": {
+      "name": "기사부",
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
@@ -2513,6 +2743,11 @@
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
+    "54014": {
+      "name": "걸리버 요원",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
     "54001": {
       "name": "샤크부",
       "item_type": "「Bangboo」",
@@ -2542,6 +2777,11 @@
       "name": "최 순찰대원",
       "item_type": "「Bangboo」",
       "rank_type": 4
+    },
+    "53013": {
+      "name": "불량부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
     },
     "53002": {
       "name": "럭키부",
@@ -2573,10 +2813,20 @@
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
+    "53015": {
+      "name": "Bangboo_Name_53015",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
     "54005": {
       "name": "에밀리온",
       "item_type": "「Bangboo」",
       "rank_type": 4
+    },
+    "55001": {
+      "name": "이아스",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
     },
     "54011": {
       "name": "레드모쿠스",
@@ -2584,5 +2834,5 @@
       "rank_type": 4
     }
   },
-  "version": "1.2"
+  "version": "1.4.5"
 }
