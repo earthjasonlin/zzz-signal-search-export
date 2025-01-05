@@ -36,6 +36,10 @@
 
 然后游戏切换的新账号，再打开调频历史记录，工具再点击“加载数据”按钮。
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/earthjasonlin/zzz-signal-search-export.svg)](https://starchart.cc/earthjasonlin/zzz-signal-search-export)
+
 ## Devlopment
 
 ```bash
