@@ -45,6 +45,11 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "13135": {
+      "name": "裁纸刀",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13008": {
       "name": "双生泣星",
       "item_type": "音擎",
@@ -110,6 +115,16 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "14138": {
+      "name": "牺牲洁纯",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14136": {
+      "name": "索魂影眸",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13007": {
       "name": "正版变身器",
       "item_type": "音擎",
@@ -132,6 +147,11 @@
     },
     "14119": {
       "name": "深海访客",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14132": {
+      "name": "心弦夜响",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -184,6 +204,11 @@
       "name": "人为刀俎",
       "item_type": "音擎",
       "rank_type": 3
+    },
+    "14131": {
+      "name": "玲珑妆匣",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "13127": {
       "name": "维序者-特化型",
@@ -315,6 +340,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1321": {
+      "name": "伊芙琳",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "2011": {
       "name": "哲",
       "item_type": "代理人",
@@ -380,6 +410,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1361": {
+      "name": "「扳机」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1121": {
       "name": "本",
       "item_type": "代理人",
@@ -393,7 +428,12 @@
     "1351": {
       "name": "波可娜",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 3
+    },
+    "1311": {
+      "name": "耀嘉音",
+      "item_type": "代理人",
+      "rank_type": 4
     },
     "1151": {
       "name": "露西",
@@ -417,6 +457,11 @@
     },
     "1171": {
       "name": "柏妮思",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1381": {
+      "name": "银心锡兵·安比",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -445,6 +490,11 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "56001": {
+      "name": "Bangboo_Name_56001",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
     "53012": {
       "name": "气压布",
       "item_type": "邦布",
@@ -452,6 +502,16 @@
     },
     "53003": {
       "name": "寻宝布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54015": {
+      "name": "咔嚓仔",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "55002": {
+      "name": "伊埃斯",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -612,6 +672,11 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "13135": {
+      "name": "裁紙刀",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13008": {
       "name": "雙生泣星",
       "item_type": "音擎",
@@ -677,6 +742,16 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "14138": {
+      "name": "犧牲潔純",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14136": {
+      "name": "索魂影眸",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13007": {
       "name": "正版變身器",
       "item_type": "音擎",
@@ -699,6 +774,11 @@
     },
     "14119": {
       "name": "深海訪客",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14132": {
+      "name": "心絃夜響",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -751,6 +831,11 @@
       "name": "人爲刀俎",
       "item_type": "音擎",
       "rank_type": 3
+    },
+    "14131": {
+      "name": "玲瓏妝匣",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "13127": {
       "name": "維序者-特化型",
@@ -882,6 +967,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1321": {
+      "name": "伊芙琳",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "2011": {
       "name": "哲",
       "item_type": "代理人",
@@ -947,6 +1037,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1361": {
+      "name": "「扳機」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1121": {
       "name": "本",
       "item_type": "代理人",
@@ -960,7 +1055,12 @@
     "1351": {
       "name": "波可娜",
       "item_type": "代理人",
-      "rank_type": null
+      "rank_type": 3
+    },
+    "1311": {
+      "name": "耀嘉音",
+      "item_type": "代理人",
+      "rank_type": 4
     },
     "1151": {
       "name": "露西",
@@ -984,6 +1084,11 @@
     },
     "1171": {
       "name": "柏妮思",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1381": {
+      "name": "銀心錫兵·安比",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -1012,6 +1117,11 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "56001": {
+      "name": "Bangboo_Name_56001",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
     "53012": {
       "name": "氣壓布",
       "item_type": "邦布",
@@ -1019,6 +1129,16 @@
     },
     "53003": {
       "name": "尋寶布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "54015": {
+      "name": "咔嚓仔",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "55002": {
+      "name": "伊埃斯",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -1179,6 +1299,11 @@
       "item_type": "W-Engines",
       "rank_type": 2
     },
+    "13135": {
+      "name": "Item_Weapon_A_1351_Name",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
     "13008": {
       "name": "Weeping Gemini",
       "item_type": "W-Engines",
@@ -1215,7 +1340,7 @@
       "rank_type": 4
     },
     "13015": {
-      "name": "Item_Weapon_A_Common_15_Name",
+      "name": "Marcato Desire",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -1225,7 +1350,7 @@
       "rank_type": 4
     },
     "14120": {
-      "name": "Item_Weapon_S_1201_Name",
+      "name": "Zanshin Herb Case",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1243,6 +1368,16 @@
       "name": "[Magnetic Storm] Bravo",
       "item_type": "W-Engines",
       "rank_type": 2
+    },
+    "14138": {
+      "name": "Item_Weapon_S_1381_Name",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14136": {
+      "name": "Item_Weapon_S_1361_Name",
+      "item_type": "W-Engines",
+      "rank_type": 4
     },
     "13007": {
       "name": "Original Transmorpher",
@@ -1266,6 +1401,11 @@
     },
     "14119": {
       "name": "Deep Sea Visitor",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14132": {
+      "name": "Heartstring Nocturne",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1300,7 +1440,7 @@
       "rank_type": 2
     },
     "14109": {
-      "name": "Item_Weapon_S_1091_Name",
+      "name": "Hailstorm Shrine",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1318,6 +1458,11 @@
       "name": "Steam Oven",
       "item_type": "W-Engines",
       "rank_type": 3
+    },
+    "14131": {
+      "name": "Elegant Vanity",
+      "item_type": "W-Engines",
+      "rank_type": 4
     },
     "13127": {
       "name": "Peacekeeper - Specialized",
@@ -1449,6 +1594,11 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1321": {
+      "name": "Evelyn",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "2011": {
       "name": "Wise",
       "item_type": "Agents",
@@ -1514,6 +1664,11 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1361": {
+      "name": "Avatar_Female_Size03_Trigger",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "1121": {
       "name": "Ben",
       "item_type": "Agents",
@@ -1527,7 +1682,12 @@
     "1351": {
       "name": "Pulchra",
       "item_type": "Agents",
-      "rank_type": null
+      "rank_type": 3
+    },
+    "1311": {
+      "name": "Astra Yao",
+      "item_type": "Agents",
+      "rank_type": 4
     },
     "1151": {
       "name": "Lucy",
@@ -1551,6 +1711,11 @@
     },
     "1171": {
       "name": "Burnice",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1381": {
+      "name": "Avatar_Female_Size02_SilverAnby",
       "item_type": "Agents",
       "rank_type": 4
     },
@@ -1579,6 +1744,11 @@
       "item_type": "Bangboo",
       "rank_type": 3
     },
+    "56001": {
+      "name": "Bangboo_Name_56001",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
     "53012": {
       "name": "Booressure",
       "item_type": "Bangboo",
@@ -1586,6 +1756,16 @@
     },
     "53003": {
       "name": "Exploreboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "54015": {
+      "name": "Snap",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "55002": {
+      "name": "Eous",
       "item_type": "Bangboo",
       "rank_type": 3
     },
@@ -1680,7 +1860,7 @@
       "rank_type": 3
     },
     "53015": {
-      "name": "Bangboo_Name_53015",
+      "name": "Brawlerboo",
       "item_type": "Bangboo",
       "rank_type": 3
     },
@@ -1746,6 +1926,11 @@
       "item_type": "音動機",
       "rank_type": 2
     },
+    "13135": {
+      "name": "Item_Weapon_A_1351_Name",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
     "13008": {
       "name": "双生の涙",
       "item_type": "音動機",
@@ -1782,7 +1967,7 @@
       "rank_type": 4
     },
     "13015": {
-      "name": "Item_Weapon_A_Common_15_Name",
+      "name": "強音デザイア",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -1792,7 +1977,7 @@
       "rank_type": 4
     },
     "14120": {
-      "name": "Item_Weapon_S_1201_Name",
+      "name": "残心の青籠",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1810,6 +1995,16 @@
       "name": "「磁気嵐」-弐式",
       "item_type": "音動機",
       "rank_type": 2
+    },
+    "14138": {
+      "name": "Item_Weapon_S_1381_Name",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14136": {
+      "name": "Item_Weapon_S_1361_Name",
+      "item_type": "音動機",
+      "rank_type": 4
     },
     "13007": {
       "name": "正規版変身装置",
@@ -1833,6 +2028,11 @@
     },
     "14119": {
       "name": "ディープシー・ビジター",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14132": {
+      "name": "心弦のノクターン",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1867,7 +2067,7 @@
       "rank_type": 2
     },
     "14109": {
-      "name": "Item_Weapon_S_1091_Name",
+      "name": "あられ落つ星殿",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -1885,6 +2085,11 @@
       "name": "まな板の鯉",
       "item_type": "音動機",
       "rank_type": 3
+    },
+    "14131": {
+      "name": "優美のヴァニティ",
+      "item_type": "音動機",
+      "rank_type": 4
     },
     "13127": {
       "name": "秩序の守り手・特化型",
@@ -2002,7 +2207,7 @@
       "rank_type": 3
     },
     "1201": {
-      "name": "悠真",
+      "name": "浅羽悠真",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -2013,6 +2218,11 @@
     },
     "1181": {
       "name": "グレース",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1321": {
+      "name": "イヴリン",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -2077,7 +2287,12 @@
       "rank_type": 4
     },
     "1091": {
-      "name": "雅",
+      "name": "星見雅",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1361": {
+      "name": "Avatar_Female_Size03_Trigger",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -2094,7 +2309,12 @@
     "1351": {
       "name": "プルクラ",
       "item_type": "エージェント",
-      "rank_type": null
+      "rank_type": 3
+    },
+    "1311": {
+      "name": "アストラ",
+      "item_type": "エージェント",
+      "rank_type": 4
     },
     "1151": {
       "name": "ルーシー",
@@ -2118,6 +2338,11 @@
     },
     "1171": {
       "name": "バーニス",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1381": {
+      "name": "Avatar_Female_Size02_SilverAnby",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -2146,6 +2371,11 @@
       "item_type": "ボンプ",
       "rank_type": 3
     },
+    "56001": {
+      "name": "Bangboo_Name_56001",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
     "53012": {
       "name": "キアツデボンプ",
       "item_type": "ボンプ",
@@ -2153,6 +2383,16 @@
     },
     "53003": {
       "name": "タンケンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "54015": {
+      "name": "カチャコ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "55002": {
+      "name": "イアス",
       "item_type": "ボンプ",
       "rank_type": 3
     },
@@ -2247,7 +2487,7 @@
       "rank_type": 3
     },
     "53015": {
-      "name": "Bangboo_Name_53015",
+      "name": "カクトウボンプ",
       "item_type": "ボンプ",
       "rank_type": 3
     },
@@ -2313,6 +2553,11 @@
       "item_type": "W-엔진",
       "rank_type": 2
     },
+    "13135": {
+      "name": "Item_Weapon_A_1351_Name",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
     "13008": {
       "name": "쌍둥이의 눈물",
       "item_type": "W-엔진",
@@ -2349,7 +2594,7 @@
       "rank_type": 4
     },
     "13015": {
-      "name": "Item_Weapon_A_Common_15_Name",
+      "name": "열망의 악센트",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -2359,7 +2604,7 @@
       "rank_type": 4
     },
     "14120": {
-      "name": "Item_Weapon_S_1201_Name",
+      "name": "잔심의 청낭",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2377,6 +2622,16 @@
       "name": "「자기 폭풍」-브라보",
       "item_type": "W-엔진",
       "rank_type": 2
+    },
+    "14138": {
+      "name": "Item_Weapon_S_1381_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14136": {
+      "name": "Item_Weapon_S_1361_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
     },
     "13007": {
       "name": "오리지널 변신 아이템",
@@ -2400,6 +2655,11 @@
     },
     "14119": {
       "name": "심해 방문객",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14132": {
+      "name": "심금을 울리는 야상곡",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2434,7 +2694,7 @@
       "rank_type": 2
     },
     "14109": {
-      "name": "Item_Weapon_S_1091_Name",
+      "name": "싸락눈 내린 별각",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2452,6 +2712,11 @@
       "name": "스팀오븐",
       "item_type": "W-엔진",
       "rank_type": 3
+    },
+    "14131": {
+      "name": "우아한 베니티백",
+      "item_type": "W-엔진",
+      "rank_type": 4
     },
     "13127": {
       "name": "평화 수호자-특화형",
@@ -2583,6 +2848,11 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1321": {
+      "name": "이블린",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "2011": {
       "name": "와이즈",
       "item_type": "에이전트",
@@ -2648,6 +2918,11 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1361": {
+      "name": "Avatar_Female_Size03_Trigger",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "1121": {
       "name": "벤",
       "item_type": "에이전트",
@@ -2661,7 +2936,12 @@
     "1351": {
       "name": "펄크라",
       "item_type": "에이전트",
-      "rank_type": null
+      "rank_type": 3
+    },
+    "1311": {
+      "name": "아스트라",
+      "item_type": "에이전트",
+      "rank_type": 4
     },
     "1151": {
       "name": "루시",
@@ -2685,6 +2965,11 @@
     },
     "1171": {
       "name": "버니스",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1381": {
+      "name": "Avatar_Female_Size02_SilverAnby",
       "item_type": "에이전트",
       "rank_type": 4
     },
@@ -2713,6 +2998,11 @@
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
+    "56001": {
+      "name": "Bangboo_Name_56001",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
     "53012": {
       "name": "압력부",
       "item_type": "「Bangboo」",
@@ -2720,6 +3010,16 @@
     },
     "53003": {
       "name": "탐험부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "54015": {
+      "name": "찰칵이",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "55002": {
+      "name": "이아스",
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
@@ -2814,7 +3114,7 @@
       "rank_type": 3
     },
     "53015": {
-      "name": "Bangboo_Name_53015",
+      "name": "격투부",
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
@@ -2834,5 +3134,5 @@
       "rank_type": 4
     }
   },
-  "version": "1.4.5"
+  "version": "1.6.0"
 }
