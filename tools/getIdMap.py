@@ -67,16 +67,19 @@ def main():
         version_url = "https://api.hakush.in/zzz/new.json"
         version_data = fetch_json(version_url)
 
-        latest_version = (
-            version_data.get("previous")[0] if version_data.get("previous") else "data"
-        )
+        latest_version = ".".join(version_data["version"].split(".")[:2]) + ".0"
+        print(f"Latest version: {latest_version}")
+        
         weapon_url = f"https://api.hakush.in/zzz/{latest_version}/weapon.json"
         character_url = f"https://api.hakush.in/zzz/{latest_version}/character.json"
         bangboo_url = f"https://api.hakush.in/zzz/{latest_version}/bangboo.json"
 
         weapon_data = fetch_json(weapon_url)
+        print("Fetched", len(weapon_data), "weapons")
         character_data = fetch_json(character_url)
+        print("Fetched", len(character_data), "characters")
         bangboo_data = fetch_json(bangboo_url)
+        print("Fetched", len(bangboo_data), "bangboos")
 
         transformed_data = {lang: {} for lang in language_map.keys()}
 
