@@ -90,6 +90,16 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "14130": {
+      "name": "嚣枪喧焰",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14105": {
+      "name": "伊德海莉测试音擎",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13010": {
       "name": "兔能环",
       "item_type": "音擎",
@@ -150,8 +160,18 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14145": {
+      "name": "铸梦炉歌",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "14138": {
       "name": "牺牲洁纯",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14146": {
+      "name": "机巧心种",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -202,6 +222,11 @@
     },
     "14124": {
       "name": "防暴者Ⅵ型",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14141": {
+      "name": "狸法七变化",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -285,6 +310,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "14140": {
+      "name": "十方锻星",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13013": {
       "name": "鎏金花信",
       "item_type": "音擎",
@@ -342,6 +372,11 @@
     },
     "14003": {
       "name": "左轮转子",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "13144": {
+      "name": "野良野测试音擎",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -405,6 +440,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1401": {
+      "name": "爱丽丝",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -450,6 +490,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1461": {
+      "name": "「席德」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1111": {
       "name": "安东",
       "item_type": "代理人",
@@ -457,6 +502,11 @@
     },
     "1041": {
       "name": "「11号」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1451": {
+      "name": "(Test1)卢西娅",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -480,6 +530,16 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1051": {
+      "name": "伊德海莉",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1411": {
+      "name": "柚叶",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1291": {
       "name": "雨果",
       "item_type": "代理人",
@@ -494,6 +554,16 @@
       "name": "耀嘉音",
       "item_type": "代理人",
       "rank_type": 4
+    },
+    "1301": {
+      "name": "奥菲丝&「鬼火」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1441": {
+      "name": "狛野真斗",
+      "item_type": "代理人",
+      "rank_type": 3
     },
     "1151": {
       "name": "露西",
@@ -565,10 +635,20 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "54018": {
+      "name": "艾丝弥小姐",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
     "54015": {
       "name": "咔嚓仔",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "53016": {
+      "name": "圣剑布",
+      "item_type": "邦布",
+      "rank_type": 3
     },
     "54016": {
       "name": "罗宾",
@@ -624,6 +704,11 @@
       "name": "电击布",
       "item_type": "邦布",
       "rank_type": 3
+    },
+    "54019": {
+      "name": "「墨丘利」",
+      "item_type": "邦布",
+      "rank_type": 4
     },
     "54017": {
       "name": "狮耶",
@@ -777,6 +862,16 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "14130": {
+      "name": "囂槍喧焰",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14105": {
+      "name": "伊德海莉測試音擎",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13010": {
       "name": "兔能環",
       "item_type": "音擎",
@@ -837,8 +932,18 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14145": {
+      "name": "鑄夢爐歌",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "14138": {
       "name": "犧牲潔純",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14146": {
+      "name": "機巧心種",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -889,6 +994,11 @@
     },
     "14124": {
       "name": "防暴者Ⅵ型",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14141": {
+      "name": "狸法七變化",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -972,6 +1082,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "14140": {
+      "name": "十方鍛星",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "13013": {
       "name": "鎏金花信",
       "item_type": "音擎",
@@ -1029,6 +1144,11 @@
     },
     "14003": {
       "name": "左輪轉子",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "13144": {
+      "name": "野良野測試音擎",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -1092,6 +1212,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1401": {
+      "name": "愛麗絲",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -1137,6 +1262,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1461": {
+      "name": "「席德」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1111": {
       "name": "安東",
       "item_type": "代理人",
@@ -1144,6 +1274,11 @@
     },
     "1041": {
       "name": "「11號」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1451": {
+      "name": "(Test1)盧西婭",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -1167,6 +1302,16 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1051": {
+      "name": "伊德海莉",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1411": {
+      "name": "柚葉",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "1291": {
       "name": "雨果",
       "item_type": "代理人",
@@ -1181,6 +1326,16 @@
       "name": "耀嘉音",
       "item_type": "代理人",
       "rank_type": 4
+    },
+    "1301": {
+      "name": "奧菲絲&「鬼火」",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1441": {
+      "name": "狛野真鬥",
+      "item_type": "代理人",
+      "rank_type": 3
     },
     "1151": {
       "name": "露西",
@@ -1252,10 +1407,20 @@
       "item_type": "邦布",
       "rank_type": 3
     },
+    "54018": {
+      "name": "艾絲彌小姐",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
     "54015": {
       "name": "咔嚓仔",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "53016": {
+      "name": "聖劍布",
+      "item_type": "邦布",
+      "rank_type": 3
     },
     "54016": {
       "name": "羅賓",
@@ -1311,6 +1476,11 @@
       "name": "電擊布",
       "item_type": "邦布",
       "rank_type": 3
+    },
+    "54019": {
+      "name": "「墨丘利」",
+      "item_type": "邦布",
+      "rank_type": 4
     },
     "54017": {
       "name": "獅耶",
@@ -1464,6 +1634,16 @@
       "item_type": "W-Engines",
       "rank_type": 3
     },
+    "14130": {
+      "name": "Bellicose Blaze",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14105": {
+      "name": "Yidhari W-Engine Test",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "13010": {
       "name": "Bunny Band",
       "item_type": "W-Engines",
@@ -1524,8 +1704,18 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14145": {
+      "name": "Dreamlit Hearth",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "14138": {
       "name": "Severed Innocence",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14146": {
+      "name": "Cordis Germina",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1576,6 +1766,11 @@
     },
     "14124": {
       "name": "Riot Suppressor Mark VI",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14141": {
+      "name": "Metanukimorphosis",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1659,6 +1854,11 @@
       "item_type": "W-Engines",
       "rank_type": 3
     },
+    "14140": {
+      "name": "Practiced Perfection",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "13013": {
       "name": "Gilded Blossom",
       "item_type": "W-Engines",
@@ -1716,6 +1916,11 @@
     },
     "14003": {
       "name": "Six Shooter",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
+    "13144": {
+      "name": "Wild Field W-Engine Test",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -1779,6 +1984,11 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1401": {
+      "name": "Alice",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "1011": {
       "name": "Anby",
       "item_type": "Agents",
@@ -1824,6 +2034,11 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1461": {
+      "name": "Seed",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "1111": {
       "name": "Anton",
       "item_type": "Agents",
@@ -1831,6 +2046,11 @@
     },
     "1041": {
       "name": "Soldier 11",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1451": {
+      "name": "Avatar_Female_Size02_Lucia",
       "item_type": "Agents",
       "rank_type": 4
     },
@@ -1854,6 +2074,16 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1051": {
+      "name": "Yidhari",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1411": {
+      "name": "Yuzuha",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "1291": {
       "name": "Hugo",
       "item_type": "Agents",
@@ -1868,6 +2098,16 @@
       "name": "Astra Yao",
       "item_type": "Agents",
       "rank_type": 4
+    },
+    "1301": {
+      "name": "Orphie & Magus",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1441": {
+      "name": "Komano Manato",
+      "item_type": "Agents",
+      "rank_type": 3
     },
     "1151": {
       "name": "Lucy",
@@ -1939,10 +2179,20 @@
       "item_type": "Bangboo",
       "rank_type": 3
     },
+    "54018": {
+      "name": "Miss Esme",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
     "54015": {
       "name": "Snap",
       "item_type": "Bangboo",
       "rank_type": 4
+    },
+    "53016": {
+      "name": "Excaliboo",
+      "item_type": "Bangboo",
+      "rank_type": 3
     },
     "54016": {
       "name": "Robin",
@@ -1998,6 +2248,11 @@
       "name": "Electroboo",
       "item_type": "Bangboo",
       "rank_type": 3
+    },
+    "54019": {
+      "name": "Mercury",
+      "item_type": "Bangboo",
+      "rank_type": 4
     },
     "54017": {
       "name": "Belion",
@@ -2151,6 +2406,16 @@
       "item_type": "音動機",
       "rank_type": 3
     },
+    "14130": {
+      "name": "憤怒の銃騒",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14105": {
+      "name": "イドリーは音動機をテストする",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "13010": {
       "name": "ラビットチャージャー",
       "item_type": "音動機",
@@ -2211,8 +2476,18 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14145": {
+      "name": "炉で歌い上げられる夢",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "14138": {
       "name": "純然たる犠牲",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14146": {
+      "name": "駆動する種",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -2263,6 +2538,11 @@
     },
     "14124": {
       "name": "サプレッサーⅥ型",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14141": {
+      "name": "狸の七変化",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -2346,6 +2626,11 @@
       "item_type": "音動機",
       "rank_type": 3
     },
+    "14140": {
+      "name": "十面百錬の星",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "13013": {
       "name": "金メッキの花信",
       "item_type": "音動機",
@@ -2403,6 +2688,11 @@
     },
     "14003": {
       "name": "シックスシューター",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
+    "13144": {
+      "name": "野良野テスト音動機",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -2466,6 +2756,11 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1401": {
+      "name": "アリス",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "1011": {
       "name": "アンビー",
       "item_type": "エージェント",
@@ -2511,6 +2806,11 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1461": {
+      "name": "「シード」",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "1111": {
       "name": "アンドー",
       "item_type": "エージェント",
@@ -2518,6 +2818,11 @@
     },
     "1041": {
       "name": "「11号」",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1451": {
+      "name": "Avatar_Female_Size02_Lucia",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -2541,6 +2846,16 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1051": {
+      "name": "イドリー",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1411": {
+      "name": "浮波柚葉",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "1291": {
       "name": "ヒューゴ",
       "item_type": "エージェント",
@@ -2555,6 +2870,16 @@
       "name": "アストラ",
       "item_type": "エージェント",
       "rank_type": 4
+    },
+    "1301": {
+      "name": "オルペウス＆「鬼火」",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1441": {
+      "name": "狛野真斗",
+      "item_type": "エージェント",
+      "rank_type": 3
     },
     "1151": {
       "name": "ルーシー",
@@ -2626,10 +2951,20 @@
       "item_type": "ボンプ",
       "rank_type": 3
     },
+    "54018": {
+      "name": "ミス・エスメ",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
     "54015": {
       "name": "カチャコ",
       "item_type": "ボンプ",
       "rank_type": 4
+    },
+    "53016": {
+      "name": "セイケンボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
     },
     "54016": {
       "name": "ロビン",
@@ -2685,6 +3020,11 @@
       "name": "ビリビリボンプ",
       "item_type": "ボンプ",
       "rank_type": 3
+    },
+    "54019": {
+      "name": "「マーキュリー」",
+      "item_type": "ボンプ",
+      "rank_type": 4
     },
     "54017": {
       "name": "オシシ",
@@ -2838,6 +3178,16 @@
       "item_type": "W-엔진",
       "rank_type": 3
     },
+    "14130": {
+      "name": "소란한 총성과 화염",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14105": {
+      "name": "Item_Weapon_S_1051_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "13010": {
       "name": "버니 밴드",
       "item_type": "W-엔진",
@@ -2898,8 +3248,18 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14145": {
+      "name": "Item_Weapon_S_1451_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "14138": {
       "name": "순결한 희생",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14146": {
+      "name": "기계 심장에 내린 씨앗",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -2950,6 +3310,11 @@
     },
     "14124": {
       "name": "서프레서 Ⅵ형",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14141": {
+      "name": "너구리의 7단 변신",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -3033,6 +3398,11 @@
       "item_type": "W-엔진",
       "rank_type": 3
     },
+    "14140": {
+      "name": "완벽하게 단조된 별",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "13013": {
       "name": "도금된 화신풍",
       "item_type": "W-엔진",
@@ -3090,6 +3460,11 @@
     },
     "14003": {
       "name": "리볼버 로터",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
+    "13144": {
+      "name": "Item_Weapon_A_1441_Name",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -3153,6 +3528,11 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1401": {
+      "name": "앨리스",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "1011": {
       "name": "엔비",
       "item_type": "에이전트",
@@ -3198,6 +3578,11 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1461": {
+      "name": "「시드」",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "1111": {
       "name": "앤톤",
       "item_type": "에이전트",
@@ -3205,6 +3590,11 @@
     },
     "1041": {
       "name": "「11호」",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1451": {
+      "name": "Avatar_Female_Size02_Lucia",
       "item_type": "에이전트",
       "rank_type": 4
     },
@@ -3228,6 +3618,16 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1051": {
+      "name": "Avatar_Female_Size03_Yidhari",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1411": {
+      "name": "유즈하",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "1291": {
       "name": "휴고",
       "item_type": "에이전트",
@@ -3242,6 +3642,16 @@
       "name": "아스트라",
       "item_type": "에이전트",
       "rank_type": 4
+    },
+    "1301": {
+      "name": "오피 & 「도깨비불」",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1441": {
+      "name": "코마노 마나토",
+      "item_type": "에이전트",
+      "rank_type": 3
     },
     "1151": {
       "name": "루시",
@@ -3313,10 +3723,20 @@
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
+    "54018": {
+      "name": "에스메 양",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
     "54015": {
       "name": "찰칵이",
       "item_type": "「Bangboo」",
       "rank_type": 4
+    },
+    "53016": {
+      "name": "엑스칼리부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
     },
     "54016": {
       "name": "로빈",
@@ -3372,6 +3792,11 @@
       "name": "찌릿부",
       "item_type": "「Bangboo」",
       "rank_type": 3
+    },
+    "54019": {
+      "name": "「머큐리」",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
     },
     "54017": {
       "name": "사야",
@@ -3434,5 +3859,5 @@
       "rank_type": 4
     }
   },
-  "version": "2.0"
+  "version": "2.3.0"
 }
