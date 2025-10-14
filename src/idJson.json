@@ -96,7 +96,7 @@
       "rank_type": 4
     },
     "14105": {
-      "name": "伊德海莉测试音擎",
+      "name": "海妖摇篮",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -194,6 +194,11 @@
       "name": "比格气缸",
       "item_type": "音擎",
       "rank_type": 3
+    },
+    "14147": {
+      "name": "般岳测试音擎",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "12007": {
       "name": "「湍流」-铳型",
@@ -376,7 +381,7 @@
       "rank_type": 3
     },
     "13144": {
-      "name": "野良野测试音擎",
+      "name": "燔火胧夜",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -404,6 +409,11 @@
       "name": "苍角",
       "item_type": "代理人",
       "rank_type": 3
+    },
+    "1471": {
+      "name": "(Test1)般岳",
+      "item_type": "代理人",
+      "rank_type": 4
     },
     "1201": {
       "name": "悠真",
@@ -506,7 +516,7 @@
       "rank_type": 4
     },
     "1451": {
-      "name": "(Test1)卢西娅",
+      "name": "卢西娅",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -561,7 +571,7 @@
       "rank_type": 4
     },
     "1441": {
-      "name": "狛野真斗",
+      "name": "真斗",
       "item_type": "代理人",
       "rank_type": 3
     },
@@ -695,6 +705,11 @@
       "item_type": "邦布",
       "rank_type": 4
     },
+    "53019": {
+      "name": "Bangboo_Name_53019",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
     "53006": {
       "name": "纸袋布",
       "item_type": "邦布",
@@ -762,6 +777,11 @@
     },
     "54005": {
       "name": "艾米莉安",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "54020": {
+      "name": "Bangboo_Name_54020",
       "item_type": "邦布",
       "rank_type": 4
     },
@@ -868,7 +888,7 @@
       "rank_type": 4
     },
     "14105": {
-      "name": "伊德海莉測試音擎",
+      "name": "海妖搖籃",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -966,6 +986,11 @@
       "name": "比格氣缸",
       "item_type": "音擎",
       "rank_type": 3
+    },
+    "14147": {
+      "name": "般嶽測試音擎",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "12007": {
       "name": "「湍流」-銃型",
@@ -1148,7 +1173,7 @@
       "rank_type": 3
     },
     "13144": {
-      "name": "野良野測試音擎",
+      "name": "燔火朧夜",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -1176,6 +1201,11 @@
       "name": "蒼角",
       "item_type": "代理人",
       "rank_type": 3
+    },
+    "1471": {
+      "name": "(Test1)般嶽",
+      "item_type": "代理人",
+      "rank_type": 4
     },
     "1201": {
       "name": "悠真",
@@ -1278,7 +1308,7 @@
       "rank_type": 4
     },
     "1451": {
-      "name": "(Test1)盧西婭",
+      "name": "盧西婭",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -1333,7 +1363,7 @@
       "rank_type": 4
     },
     "1441": {
-      "name": "狛野真鬥",
+      "name": "真鬥",
       "item_type": "代理人",
       "rank_type": 3
     },
@@ -1467,6 +1497,11 @@
       "item_type": "邦布",
       "rank_type": 4
     },
+    "53019": {
+      "name": "Bangboo_Name_53019",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
     "53006": {
       "name": "紙袋布",
       "item_type": "邦布",
@@ -1534,6 +1569,11 @@
     },
     "54005": {
       "name": "艾米莉安",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "54020": {
+      "name": "Bangboo_Name_54020",
       "item_type": "邦布",
       "rank_type": 4
     },
@@ -1640,7 +1680,7 @@
       "rank_type": 4
     },
     "14105": {
-      "name": "Yidhari W-Engine Test",
+      "name": "Kraken's Cradle",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1738,6 +1778,11 @@
       "name": "Big Cylinder",
       "item_type": "W-Engines",
       "rank_type": 3
+    },
+    "14147": {
+      "name": "Item_Weapon_S_1471_Name",
+      "item_type": "W-Engines",
+      "rank_type": 4
     },
     "12007": {
       "name": "[Vortex] Revolver",
@@ -1920,7 +1965,7 @@
       "rank_type": 3
     },
     "13144": {
-      "name": "Wild Field W-Engine Test",
+      "name": "Grill O'Wisp",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -1948,6 +1993,11 @@
       "name": "Soukaku",
       "item_type": "Agents",
       "rank_type": 3
+    },
+    "1471": {
+      "name": "Avatar_Male_Size03_BanYue",
+      "item_type": "Agents",
+      "rank_type": 4
     },
     "1201": {
       "name": "Harumasa",
@@ -2050,7 +2100,7 @@
       "rank_type": 4
     },
     "1451": {
-      "name": "Avatar_Female_Size02_Lucia",
+      "name": "Lucia",
       "item_type": "Agents",
       "rank_type": 4
     },
@@ -2105,7 +2155,7 @@
       "rank_type": 4
     },
     "1441": {
-      "name": "Komano Manato",
+      "name": "Manato",
       "item_type": "Agents",
       "rank_type": 3
     },
@@ -2239,6 +2289,11 @@
       "item_type": "Bangboo",
       "rank_type": 4
     },
+    "53019": {
+      "name": "Bangboo_Name_53019",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
     "53006": {
       "name": "Bagboo",
       "item_type": "Bangboo",
@@ -2306,6 +2361,11 @@
     },
     "54005": {
       "name": "Amillion",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "54020": {
+      "name": "Bangboo_Name_54020",
       "item_type": "Bangboo",
       "rank_type": 4
     },
@@ -2412,7 +2472,7 @@
       "rank_type": 4
     },
     "14105": {
-      "name": "イドリーは音動機をテストする",
+      "name": "セイレーンクレードル",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -2510,6 +2570,11 @@
       "name": "ビガー・シリンダー",
       "item_type": "音動機",
       "rank_type": 3
+    },
+    "14147": {
+      "name": "Item_Weapon_S_1471_Name",
+      "item_type": "音動機",
+      "rank_type": 4
     },
     "12007": {
       "name": "「激流」-銃型",
@@ -2692,7 +2757,7 @@
       "rank_type": 3
     },
     "13144": {
-      "name": "野良野テスト音動機",
+      "name": "燔火の朧夜",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -2720,6 +2785,11 @@
       "name": "蒼角",
       "item_type": "エージェント",
       "rank_type": 3
+    },
+    "1471": {
+      "name": "Avatar_Male_Size03_BanYue",
+      "item_type": "エージェント",
+      "rank_type": 4
     },
     "1201": {
       "name": "浅羽悠真",
@@ -2822,7 +2892,7 @@
       "rank_type": 4
     },
     "1451": {
-      "name": "Avatar_Female_Size02_Lucia",
+      "name": "リュシア",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -2877,7 +2947,7 @@
       "rank_type": 4
     },
     "1441": {
-      "name": "狛野真斗",
+      "name": "真斗",
       "item_type": "エージェント",
       "rank_type": 3
     },
@@ -3011,6 +3081,11 @@
       "item_type": "ボンプ",
       "rank_type": 4
     },
+    "53019": {
+      "name": "Bangboo_Name_53019",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
     "53006": {
       "name": "フクロノボンプ",
       "item_type": "ボンプ",
@@ -3078,6 +3153,11 @@
     },
     "54005": {
       "name": "アミリオン",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "54020": {
+      "name": "Bangboo_Name_54020",
       "item_type": "ボンプ",
       "rank_type": 4
     },
@@ -3184,7 +3264,7 @@
       "rank_type": 4
     },
     "14105": {
-      "name": "Item_Weapon_S_1051_Name",
+      "name": "크라켄의 요람",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -3249,7 +3329,7 @@
       "rank_type": 4
     },
     "14145": {
-      "name": "Item_Weapon_S_1451_Name",
+      "name": "꿈을 빚는 용광로의 노래",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -3282,6 +3362,11 @@
       "name": "빅 실린더",
       "item_type": "W-엔진",
       "rank_type": 3
+    },
+    "14147": {
+      "name": "Item_Weapon_S_1471_Name",
+      "item_type": "W-엔진",
+      "rank_type": 4
     },
     "12007": {
       "name": "「급류」-총",
@@ -3464,7 +3549,7 @@
       "rank_type": 3
     },
     "13144": {
-      "name": "Item_Weapon_A_1441_Name",
+      "name": "어스름한 밤의 화염",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -3492,6 +3577,11 @@
       "name": "소우카쿠",
       "item_type": "에이전트",
       "rank_type": 3
+    },
+    "1471": {
+      "name": "Avatar_Male_Size03_BanYue",
+      "item_type": "에이전트",
+      "rank_type": 4
     },
     "1201": {
       "name": "하루마사",
@@ -3594,7 +3684,7 @@
       "rank_type": 4
     },
     "1451": {
-      "name": "Avatar_Female_Size02_Lucia",
+      "name": "루시아",
       "item_type": "에이전트",
       "rank_type": 4
     },
@@ -3619,7 +3709,7 @@
       "rank_type": 4
     },
     "1051": {
-      "name": "Avatar_Female_Size03_Yidhari",
+      "name": "이드하리",
       "item_type": "에이전트",
       "rank_type": 4
     },
@@ -3649,7 +3739,7 @@
       "rank_type": 4
     },
     "1441": {
-      "name": "코마노 마나토",
+      "name": "마나토",
       "item_type": "에이전트",
       "rank_type": 3
     },
@@ -3783,6 +3873,11 @@
       "item_type": "「Bangboo」",
       "rank_type": 4
     },
+    "53019": {
+      "name": "Bangboo_Name_53019",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
     "53006": {
       "name": "봉투부",
       "item_type": "「Bangboo」",
@@ -3853,11 +3948,16 @@
       "item_type": "「Bangboo」",
       "rank_type": 4
     },
+    "54020": {
+      "name": "Bangboo_Name_54020",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
     "54011": {
       "name": "레드모쿠스",
       "item_type": "「Bangboo」",
       "rank_type": 4
     }
   },
-  "version": "2.3.0"
+  "version": "2.4.0"
 }
