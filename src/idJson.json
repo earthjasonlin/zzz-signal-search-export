@@ -196,7 +196,7 @@
       "rank_type": 3
     },
     "14147": {
-      "name": "般岳测试音擎",
+      "name": "怒目金刚",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -295,6 +295,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13019": {
+      "name": "Item_Weapon_A_Common_19_Name",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "14121": {
       "name": "啜泣摇篮",
       "item_type": "音擎",
@@ -324,6 +329,11 @@
       "name": "鎏金花信",
       "item_type": "音擎",
       "rank_type": 3
+    },
+    "14148": {
+      "name": "昨夜来电",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "12004": {
       "name": "「残响」-Ⅰ型",
@@ -411,7 +421,7 @@
       "rank_type": 3
     },
     "1471": {
-      "name": "(Test1)般岳",
+      "name": "般岳",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -547,6 +557,11 @@
     },
     "1411": {
       "name": "柚叶",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1481": {
+      "name": "(Test1)琉音",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -706,7 +721,7 @@
       "rank_type": 4
     },
     "53019": {
-      "name": "Bangboo_Name_53019",
+      "name": "乐玩布",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -781,7 +796,7 @@
       "rank_type": 4
     },
     "54020": {
-      "name": "Bangboo_Name_54020",
+      "name": "比克布利克",
       "item_type": "邦布",
       "rank_type": 4
     },
@@ -988,7 +1003,7 @@
       "rank_type": 3
     },
     "14147": {
-      "name": "般嶽測試音擎",
+      "name": "怒目金剛",
       "item_type": "音擎",
       "rank_type": 4
     },
@@ -1087,6 +1102,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13019": {
+      "name": "Item_Weapon_A_Common_19_Name",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "14121": {
       "name": "啜泣搖籃",
       "item_type": "音擎",
@@ -1116,6 +1136,11 @@
       "name": "鎏金花信",
       "item_type": "音擎",
       "rank_type": 3
+    },
+    "14148": {
+      "name": "昨夜來電",
+      "item_type": "音擎",
+      "rank_type": 4
     },
     "12004": {
       "name": "「殘響」-Ⅰ型",
@@ -1203,7 +1228,7 @@
       "rank_type": 3
     },
     "1471": {
-      "name": "(Test1)般嶽",
+      "name": "般嶽",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -1339,6 +1364,11 @@
     },
     "1411": {
       "name": "柚葉",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1481": {
+      "name": "(Test1)琉音",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -1498,7 +1528,7 @@
       "rank_type": 4
     },
     "53019": {
-      "name": "Bangboo_Name_53019",
+      "name": "樂玩布",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -1573,7 +1603,7 @@
       "rank_type": 4
     },
     "54020": {
-      "name": "Bangboo_Name_54020",
+      "name": "比克布利克",
       "item_type": "邦布",
       "rank_type": 4
     },
@@ -1780,7 +1810,7 @@
       "rank_type": 3
     },
     "14147": {
-      "name": "Item_Weapon_S_1471_Name",
+      "name": "Wrathful Vajra",
       "item_type": "W-Engines",
       "rank_type": 4
     },
@@ -1879,6 +1909,11 @@
       "item_type": "W-Engines",
       "rank_type": 3
     },
+    "13019": {
+      "name": "Item_Weapon_A_Common_19_Name",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
     "14121": {
       "name": "Weeping Cradle",
       "item_type": "W-Engines",
@@ -1908,6 +1943,11 @@
       "name": "Gilded Blossom",
       "item_type": "W-Engines",
       "rank_type": 3
+    },
+    "14148": {
+      "name": "Yesterday Calls",
+      "item_type": "W-Engines",
+      "rank_type": 4
     },
     "12004": {
       "name": "[Reverb] Mark I",
@@ -2134,6 +2174,11 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1481": {
+      "name": "Azural",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "1291": {
       "name": "Hugo",
       "item_type": "Agents",
@@ -2290,7 +2335,7 @@
       "rank_type": 4
     },
     "53019": {
-      "name": "Bangboo_Name_53019",
+      "name": "Bild N. Boolok",
       "item_type": "Bangboo",
       "rank_type": 3
     },
@@ -2365,7 +2410,7 @@
       "rank_type": 4
     },
     "54020": {
-      "name": "Bangboo_Name_54020",
+      "name": "Birkblick",
       "item_type": "Bangboo",
       "rank_type": 4
     },
@@ -2572,7 +2617,7 @@
       "rank_type": 3
     },
     "14147": {
-      "name": "Item_Weapon_S_1471_Name",
+      "name": "金剛不壊怒髪衝冠",
       "item_type": "音動機",
       "rank_type": 4
     },
@@ -2671,6 +2716,11 @@
       "item_type": "音動機",
       "rank_type": 3
     },
+    "13019": {
+      "name": "Item_Weapon_A_Common_19_Name",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
     "14121": {
       "name": "啜り泣くゆりかご",
       "item_type": "音動機",
@@ -2700,6 +2750,11 @@
       "name": "金メッキの花信",
       "item_type": "音動機",
       "rank_type": 3
+    },
+    "14148": {
+      "name": "昨夜からの着信",
+      "item_type": "音動機",
+      "rank_type": 4
     },
     "12004": {
       "name": "「残響」-Ⅰ型",
@@ -2926,6 +2981,11 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1481": {
+      "name": "ダイアリン",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "1291": {
       "name": "ヒューゴ",
       "item_type": "エージェント",
@@ -2947,7 +3007,7 @@
       "rank_type": 4
     },
     "1441": {
-      "name": "真斗",
+      "name": "狛野真斗",
       "item_type": "エージェント",
       "rank_type": 3
     },
@@ -3082,7 +3142,7 @@
       "rank_type": 4
     },
     "53019": {
-      "name": "Bangboo_Name_53019",
+      "name": "ブロックボンプ",
       "item_type": "ボンプ",
       "rank_type": 3
     },
@@ -3157,7 +3217,7 @@
       "rank_type": 4
     },
     "54020": {
-      "name": "Bangboo_Name_54020",
+      "name": "ビャークブリック",
       "item_type": "ボンプ",
       "rank_type": 4
     },
@@ -3364,7 +3424,7 @@
       "rank_type": 3
     },
     "14147": {
-      "name": "Item_Weapon_S_1471_Name",
+      "name": "",
       "item_type": "W-엔진",
       "rank_type": 4
     },
@@ -3463,6 +3523,11 @@
       "item_type": "W-엔진",
       "rank_type": 3
     },
+    "13019": {
+      "name": "Item_Weapon_A_Common_19_Name",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
     "14121": {
       "name": "흐느끼는 요람",
       "item_type": "W-엔진",
@@ -3492,6 +3557,11 @@
       "name": "도금된 화신풍",
       "item_type": "W-엔진",
       "rank_type": 3
+    },
+    "14148": {
+      "name": "",
+      "item_type": "W-엔진",
+      "rank_type": 4
     },
     "12004": {
       "name": "「잔향」-Ⅰ형",
@@ -3718,6 +3788,11 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1481": {
+      "name": "다이아린",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "1291": {
       "name": "휴고",
       "item_type": "에이전트",
@@ -3874,7 +3949,7 @@
       "rank_type": 4
     },
     "53019": {
-      "name": "Bangboo_Name_53019",
+      "name": "블록부",
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
@@ -3949,7 +4024,7 @@
       "rank_type": 4
     },
     "54020": {
-      "name": "Bangboo_Name_54020",
+      "name": "비르크블리크",
       "item_type": "「Bangboo」",
       "rank_type": 4
     },
@@ -3959,5 +4034,5 @@
       "rank_type": 4
     }
   },
-  "version": "2.4.0"
+  "version": "2.5.0"
 }
