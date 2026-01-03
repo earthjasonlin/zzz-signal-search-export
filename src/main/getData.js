@@ -408,6 +408,17 @@ const getUrl = async () => {
   return url
 }
 
+const getApiUrl = async () => {
+  const url = await getUrl()
+  if (!url) return null
+  
+  const searchParams = getQuerystring(url)
+  if (!searchParams) return null
+  
+  const apiUrl = `${apiDomain}/common/gacha_record/api/getGachaLog?${searchParams.toString()}`
+  return apiUrl
+}
+
 const fetchData = async (urlOverride) => {
   const text = i18n.log
   await readData()
@@ -559,3 +570,4 @@ exports.deleteData = deleteData
 exports.saveData = saveData
 exports.changeCurrent = changeCurrent
 exports.convertTimeZone = convertTimeZone
+exports.getApiUrl = getApiUrl
