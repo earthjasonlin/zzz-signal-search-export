@@ -13,7 +13,8 @@
   "ui.button.startProxy": "代理模式",
   "ui.button.solution": "解决办法",
   "ui.button.cacheFolder": "打开网页缓存文件夹",
-  "ui.button.copyUrl": "复制URL",
+  "ui.button.copyUrl": "复制网页链接",
+  "ui.button.copyApiUrl": "复制API链接",
   "ui.select.newAccount": "新账号",
   "ui.hint.newAccount": "从其它账号导出数据",
   "ui.hint.init": "请先在游戏里打开任意一个抽卡记录后再点击“加载数据”按钮",
@@ -103,6 +104,7 @@
   "uigf.fileType":"统一可交换抽卡记录标准 v4.0, v4.1",
   "ui.extra.cacheClean": "1. 确认是否已经打开游戏内的抽卡历史记录，如果仍然出现“身份认证已过期”的错误，再尝试下面的步骤\n2. 关闭绝区零的游戏窗口\n3. 点击上方的“打开缓存文件夹”按钮，打开Cache文件夹\n4. 删除Cache_Data文件夹\n5. 启动绝区零游戏，打开游戏内抽卡历史记录页面\n6. 关闭这个对话框，再点击“更新数据”按钮",
   "ui.extra.findCacheFolder": "如果点“打开缓存文件夹”按钮没有反应，可以手动找到游戏的网页缓存文件夹，目录为“你的游戏安装路径/ZenlessZoneZero_Data/webCaches/Cache/”",
-  "ui.extra.urlCopied": "URL已复制",
+  "ui.extra.urlCopied": "网页链接已复制",
+  "ui.extra.apiUrlCopied": "API链接已复制",
   "ui.uigf.title": "请选择要导出的UID"
 }

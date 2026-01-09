@@ -13,7 +13,8 @@
   "ui.button.startProxy": "Proxy mode",
   "ui.button.solution": "Solution",
   "ui.button.cacheFolder": "Open cache folder",
-  "ui.button.copyUrl": "Copy URL",
+  "ui.button.copyUrl": "Copy Web URL",
+  "ui.button.copyApiUrl": "Copy API URL",
   "ui.select.newAccount": "New account",
   "ui.hint.newAccount": "Export data from other accounts",
   "ui.hint.init": "Please open your warp history inside the game client before clicking on the 'Load data' button",
@@ -104,6 +105,7 @@
   "uigf.fileType": "Uniformed Interchangeable GachaLog Format v4.0, v4.1",
   "ui.extra.cacheClean": "1. Confirm whether the search history in the game has been opened, and if the error \"User authentication expired\" still appears, try the following steps \n2. Close the game window of Zenless Zone Zero \n3. Click the \"Open Web Cache Folder\" button above to open the \"Cache\" folder \n4. Delete the \"Cache_Data\" folder \n5. Start the Zenless Zone Zero game and open the search history page in the game \n6. Close this dialog and click the \"Update Data\" button",
   "ui.extra.findCacheFolder": "If the \"Open cache folder\" button does not respond, you can manually find the game's web cache folder. The directory is \"Your game installation path/ZenlessZoneZero_Data/webCaches/Cache/\"",
-  "ui.extra.urlCopied": "URL Copied",
+  "ui.extra.urlCopied": "Web URL Copied",
+  "ui.extra.apiUrlCopied": "API URL Copied",
   "ui.uigf.title": "Please select the UID(s) you want to export"
 }
