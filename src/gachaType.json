@@ -17,6 +17,14 @@
       {
         "key": "5",
         "name": "邦布频段"
+      },
+      {
+        "key": "102",
+        "name": "独家重映"
+      },
+      {
+        "key": "103",
+        "name": "音擎回响"
       }
     ]
   ],
@@ -38,6 +46,14 @@
       {
         "key": "5",
         "name": "邦布頻段"
+      },
+      {
+        "key": "102",
+        "name": "獨家重映"
+      },
+      {
+        "key": "103",
+        "name": "音擎回響"
       }
     ]
   ],
@@ -59,6 +75,14 @@
       {
         "key": "5",
         "name": "Bangboo Channel"
+      },
+      {
+        "key": "102",
+        "name": "Exclusive Rescreening"
+      },
+      {
+        "key": "103",
+        "name": "W-Engine Reverberation"
       }
     ]
   ]
