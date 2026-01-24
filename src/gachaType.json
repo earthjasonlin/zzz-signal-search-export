@@ -11,20 +11,20 @@
         "name": "音擎频段"
       },
       {
-        "key": "1",
-        "name": "常驻频段"
-      },
-      {
-        "key": "5",
-        "name": "邦布频段"
-      },
-      {
         "key": "102",
         "name": "独家重映"
       },
       {
         "key": "103",
         "name": "音擎回响"
+      },
+      {
+        "key": "1",
+        "name": "常驻频段"
+      },
+      {
+        "key": "5",
+        "name": "邦布频段"
       }
     ]
   ],
@@ -40,20 +40,20 @@
         "name": "音擎頻段"
       },
       {
-        "key": "1",
-        "name": "常駐頻段"
-      },
-      {
-        "key": "5",
-        "name": "邦布頻段"
-      },
-      {
         "key": "102",
         "name": "獨家重映"
       },
       {
         "key": "103",
         "name": "音擎回響"
+      },
+      {
+        "key": "1",
+        "name": "常駐頻段"
+      },
+      {
+        "key": "5",
+        "name": "邦布頻段"
       }
     ]
   ],
@@ -69,20 +69,20 @@
         "name": "W-Engine Channel"
       },
       {
-        "key": "1",
-        "name": "Stable Channel"
-      },
-      {
-        "key": "5",
-        "name": "Bangboo Channel"
-      },
-      {
         "key": "102",
         "name": "Exclusive Rescreening"
       },
       {
         "key": "103",
         "name": "W-Engine Reverberation"
+      },
+      {
+        "key": "1",
+        "name": "Stable Channel"
+      },
+      {
+        "key": "5",
+        "name": "Bangboo Channel"
       }
     ]
   ]
