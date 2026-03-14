@@ -10,11 +10,11 @@ cc = OpenCC("s2t")
 
 # 语言映射配置
 language_map = {
-    "zh-cn": "CHS",
-    "zh-tw": "CHS",  # 简体转繁体
-    "en-us": "EN",
-    "ja-jp": "JA",
-    "ko-kr": "KO",
+    "zh-cn": "zh",
+    "zh-tw": "zh",  # 简体转繁体
+    "en-us": "en",
+    "ja-jp": "ja",
+    "ko-kr": "ko",
 }
 
 # 类型映射配置
@@ -53,7 +53,7 @@ def transform_data(data, item_type):
     transformed = {lang: {} for lang in language_map.keys()}
     for id_, item in data.items():
         for lang, key in language_map.items():
-            name = item[key] if lang != "zh-tw" else cc.convert(item["CHS"])
+            name = item[key] if lang != "zh-tw" else cc.convert(item["zh"])
             transformed[lang][id_] = {
                 "name": name,
                 "item_type": type_map[item_type][lang],
@@ -64,15 +64,15 @@ def transform_data(data, item_type):
 
 def main():
     try:
-        version_url = "https://api.hakush.in/zzz/new.json"
+        version_url = "https://static.nanoka.cc/manifest.json"
         version_data = fetch_json(version_url)
 
-        latest_version = ".".join(version_data["version"].split(".")[:2]) + ".0"
+        latest_version = version_data['zzz']['live']
         print(f"Latest version: {latest_version}")
         
-        weapon_url = f"https://api.hakush.in/zzz/{latest_version}/weapon.json"
-        character_url = f"https://api.hakush.in/zzz/{latest_version}/character.json"
-        bangboo_url = f"https://api.hakush.in/zzz/{latest_version}/bangboo.json"
+        weapon_url = f"https://static.nanoka.cc/zzz/{latest_version}/weapon.json"
+        character_url = f"https://static.nanoka.cc/zzz/{latest_version}/character.json"
+        bangboo_url = f"https://static.nanoka.cc/zzz/{latest_version}/bangboo.json"
 
         weapon_data = fetch_json(weapon_url)
         print("Fetched", len(weapon_data), "weapons")
