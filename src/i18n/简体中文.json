@@ -51,6 +51,7 @@
   "ui.setting.logTypeHint": "使用游戏日志获取URL时，优先选择哪种服务器生成的日志文件。",
   "ui.setting.dataManagerHint": "可以删除不需要的数据。",
   "ui.setting.autoUpdate": "自动更新",
+  "ui.setting.hideStandard": "隐藏常驻池",
   "ui.setting.proxyMode": "代理模式",
   "ui.setting.proxyModeHint": "通过设置系统代理来获取URL，无法从日志中获取到有效的URL时才会启动代理服务器。",
   "ui.setting.fetchFullHistory": "获取完整数据",

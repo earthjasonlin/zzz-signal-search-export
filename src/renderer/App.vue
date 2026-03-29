@@ -139,7 +139,7 @@
       class="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4"
     >
       <div class="mb-4" v-for="(item, i) of detail" :key="i">
-        <div :class="{ hidden: state.config.hideNovice && item[0] === '2' }">
+        <div :class="{ hidden: state.config.hideStandard && item[0] === '1' }">
           <p class="text-center text-gray-600 my-2">
             {{ typeMap.get(item[0]) }}
           </p>

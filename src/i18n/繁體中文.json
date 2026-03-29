@@ -50,6 +50,7 @@
   "ui.setting.logTypeHint": "使用遊戲日誌獲取URL時，優先選擇哪種服務器生成的日誌文件。",
   "ui.setting.dataManagerHint": "可以刪除不需要的數據。",
   "ui.setting.autoUpdate": "自動更新",
+  "ui.setting.hideStandard": "隱藏常駐池",
   "ui.setting.proxyMode": "代理模式",
   "ui.setting.proxyModeHint": "通過設置系統代理來獲取URL，無法從日誌中獲取到有效的URL時才會啟動代理服務器。",
   "ui.setting.fetchFullHistory": "獲取完整數據",

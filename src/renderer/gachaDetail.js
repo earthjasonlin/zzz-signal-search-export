@@ -8,9 +8,13 @@ const itemCount = (map, name) => {
   }
 }
 
+const order = ['2', '3', '5', '102', '103', '1']
+
 const gachaDetail = (data) => {
   const detailMap = new Map()
-  for (let [key, value] of data) {
+  for (let key of order) {
+    if (!data.has(key)) continue
+    let value = data.get(key)
     let detail = {
       count2: 0, count3: 0, count4: 0,
       count2w: 0, count3w: 0, count4w: 0, count3c: 0, count4c: 0, count3b: 0, count4b: 0,

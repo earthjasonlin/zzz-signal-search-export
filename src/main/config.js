@@ -9,7 +9,7 @@ const config = {
   proxyMode: false,
   autoUpdate: true,
   fetchFullHistory: false,
-  hideNovice: false
+  hideStandard: false
 }
 
 const getLocalConfig = async () => {

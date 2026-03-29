@@ -12,7 +12,6 @@ const { mergeData } =  require('./utils/mergeData')
 const gachaTypeRaw = require('../gachaType.json')
 
 const dataMap = new Map()
-const order = ['2', '3', '1', '5']
 let apiDomain = 'https://public-operation-nap.mihoyo.com'
 
 const saveData = async (data, url) => {
