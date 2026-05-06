@@ -435,6 +435,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14153": {
+      "name": "辉骑面铠",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14154": {
+      "name": "朔月裁霜",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -690,6 +700,16 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1531": {
+      "name": "星徽·比利",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1541": {
+      "name": "普罗米娅",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鹅布",
       "item_type": "邦布",
@@ -777,6 +797,11 @@
     },
     "53019": {
       "name": "乐玩布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53021": {
+      "name": "幽浮布",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -1317,6 +1342,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14153": {
+      "name": "輝騎面鎧",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14154": {
+      "name": "朔月裁霜",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -1572,6 +1607,16 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1531": {
+      "name": "星徽·比利",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1541": {
+      "name": "普羅米婭",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鵝布",
       "item_type": "邦布",
@@ -1659,6 +1704,11 @@
     },
     "53019": {
       "name": "樂玩布",
+      "item_type": "邦布",
+      "rank_type": 3
+    },
+    "53021": {
+      "name": "幽浮布",
       "item_type": "邦布",
       "rank_type": 3
     },
@@ -2199,6 +2249,16 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14153": {
+      "name": "Starlight Rider Faceplate",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14154": {
+      "name": "Frostfall Sickle",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "1011": {
       "name": "Anby",
       "item_type": "Agents",
@@ -2454,6 +2514,16 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1531": {
+      "name": "Starlight - Billy",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1541": {
+      "name": "Promeia",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "53001": {
       "name": "Penguinboo",
       "item_type": "Bangboo",
@@ -2541,6 +2611,11 @@
     },
     "53019": {
       "name": "Bild N. Boolok",
+      "item_type": "Bangboo",
+      "rank_type": 3
+    },
+    "53021": {
+      "name": "Booltergeist",
       "item_type": "Bangboo",
       "rank_type": 3
     },
@@ -3081,6 +3156,16 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14153": {
+      "name": "スターライトバイザー",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14154": {
+      "name": "フロスト・クレセント",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "1011": {
       "name": "アンビー",
       "item_type": "エージェント",
@@ -3222,7 +3307,7 @@
       "rank_type": 4
     },
     "1301": {
-      "name": "オルペウス＆「鬼火」",
+      "name": "オルペウス&「鬼火」",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -3336,6 +3421,16 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1531": {
+      "name": "スターライト･ビリー",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1541": {
+      "name": "プロメイア",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "53001": {
       "name": "ペンギンボンプ",
       "item_type": "ボンプ",
@@ -3423,6 +3518,11 @@
     },
     "53019": {
       "name": "ブロックボンプ",
+      "item_type": "ボンプ",
+      "rank_type": 3
+    },
+    "53021": {
+      "name": "ユウレイボンプ",
       "item_type": "ボンプ",
       "rank_type": 3
     },
@@ -3963,6 +4063,16 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14153": {
+      "name": "별빛 기사의 가면",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14154": {
+      "name": "삭월에 끊어지는 서리",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "1011": {
       "name": "엔비",
       "item_type": "에이전트",
@@ -4218,6 +4328,16 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1531": {
+      "name": "스타라이트·빌리",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1541": {
+      "name": "프로미아",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "53001": {
       "name": "펭귄부",
       "item_type": "「Bangboo」",
@@ -4305,6 +4425,11 @@
     },
     "53019": {
       "name": "블록부",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
+    },
+    "53021": {
+      "name": "유령부",
       "item_type": "「Bangboo」",
       "rank_type": 3
     },
@@ -4409,5 +4534,5 @@
       "rank_type": 4
     }
   },
-  "version": "2.7"
+  "version": "2.8"
 }
