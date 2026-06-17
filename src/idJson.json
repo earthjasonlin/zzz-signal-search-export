@@ -155,6 +155,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13018": {
+      "name": "咚哒回声",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13019": {
       "name": "青漪灵鼎",
       "item_type": "音擎",
@@ -445,6 +450,21 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14155": {
+      "name": "日冕遗蜕",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14156": {
+      "name": "琳琅鎏心",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14157": {
+      "name": "首席跟班",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -710,6 +730,26 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1551": {
+      "name": "佩洛伊斯",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1561": {
+      "name": "维琳娜",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1571": {
+      "name": "诺姆",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1581": {
+      "name": "蕾米埃尔",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鹅布",
       "item_type": "邦布",
@@ -904,6 +944,11 @@
       "name": "芽芽",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "54022": {
+      "name": "超极杰克",
+      "item_type": "邦布",
+      "rank_type": 4
     }
   },
   "zh-tw": {
@@ -1059,6 +1104,11 @@
     },
     "13016": {
       "name": "光影刻刀",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "13018": {
+      "name": "咚噠回聲",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -1352,6 +1402,21 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14155": {
+      "name": "日冕遺蛻",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14156": {
+      "name": "琳琅鎏心",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14157": {
+      "name": "首席跟班",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -1617,6 +1682,26 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1551": {
+      "name": "佩洛伊斯",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1561": {
+      "name": "維琳娜",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1571": {
+      "name": "諾姆",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1581": {
+      "name": "蕾米埃爾",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鵝布",
       "item_type": "邦布",
@@ -1811,6 +1896,11 @@
       "name": "芽芽",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "54022": {
+      "name": "超極傑克",
+      "item_type": "邦布",
+      "rank_type": 4
     }
   },
   "en-us": {
@@ -1966,6 +2056,11 @@
     },
     "13016": {
       "name": "Reel Projector",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
+    "13018": {
+      "name": "Boisterous Echoes",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -2259,6 +2354,21 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14155": {
+      "name": "Sol Exuvia",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14156": {
+      "name": "Joyau Dore",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14157": {
+      "name": "Chief Sidekick",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "1011": {
       "name": "Anby",
       "item_type": "Agents",
@@ -2524,6 +2634,26 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1551": {
+      "name": "Pyrois",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1561": {
+      "name": "Velina",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1571": {
+      "name": "Norma",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1581": {
+      "name": "Avatar_Female_Size02_Remielle",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "53001": {
       "name": "Penguinboo",
       "item_type": "Bangboo",
@@ -2718,6 +2848,11 @@
       "name": "Sprout",
       "item_type": "Bangboo",
       "rank_type": 4
+    },
+    "54022": {
+      "name": "Ultra Jake",
+      "item_type": "Bangboo",
+      "rank_type": 4
     }
   },
   "ja-jp": {
@@ -2873,6 +3008,11 @@
     },
     "13016": {
       "name": "光と影のカット",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
+    "13018": {
+      "name": "ドンカツエコー",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -3166,6 +3306,21 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14155": {
+      "name": "太陽の抜け殻",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14156": {
+      "name": "金襴の心",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14157": {
+      "name": "エースのオトモ",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "1011": {
       "name": "アンビー",
       "item_type": "エージェント",
@@ -3431,6 +3586,26 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1551": {
+      "name": "ピュロイス",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1561": {
+      "name": "ヴェリナ",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1571": {
+      "name": "ノルムー",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1581": {
+      "name": "Avatar_Female_Size02_Remielle",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "53001": {
       "name": "ペンギンボンプ",
       "item_type": "ボンプ",
@@ -3625,6 +3800,11 @@
       "name": "メメ",
       "item_type": "ボンプ",
       "rank_type": 4
+    },
+    "54022": {
+      "name": "ウルトラネイヴ",
+      "item_type": "ボンプ",
+      "rank_type": 4
     }
   },
   "ko-kr": {
@@ -3780,6 +3960,11 @@
     },
     "13016": {
       "name": "조명을 새기는 칼",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
+    "13018": {
+      "name": "둥둥 메아리",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -4073,6 +4258,21 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14155": {
+      "name": "태양의 유체",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14156": {
+      "name": "영롱한 금빛 마음",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14157": {
+      "name": "수석 조수",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "1011": {
       "name": "엔비",
       "item_type": "에이전트",
@@ -4338,6 +4538,26 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1551": {
+      "name": "피로이스",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1561": {
+      "name": "벨리나",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1571": {
+      "name": "노르마",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1581": {
+      "name": "Avatar_Female_Size02_Remielle",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "53001": {
       "name": "펭귄부",
       "item_type": "「Bangboo」",
@@ -4532,7 +4752,12 @@
       "name": "싹싹",
       "item_type": "「Bangboo」",
       "rank_type": 4
+    },
+    "54022": {
+      "name": "울트라 제이크",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
     }
   },
-  "version": "2.8"
+  "version": "3.0"
 }
