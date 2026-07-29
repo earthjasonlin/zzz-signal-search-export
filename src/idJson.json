@@ -465,6 +465,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14158": {
+      "name": "空羽复归之诗",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14159": {
+      "name": "骁骑礼赞",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -750,6 +760,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1591": {
+      "name": "希格莉德",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鹅布",
       "item_type": "邦布",
@@ -949,6 +964,16 @@
       "name": "超极杰克",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "54023": {
+      "name": "艾瑞儿",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "55098": {
+      "name": "伊埃斯",
+      "item_type": "邦布",
+      "rank_type": 3
     }
   },
   "zh-tw": {
@@ -1417,6 +1442,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14158": {
+      "name": "空羽復歸之詩",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14159": {
+      "name": "驍騎禮讚",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -1702,6 +1737,11 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1591": {
+      "name": "希格莉德",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鵝布",
       "item_type": "邦布",
@@ -1901,6 +1941,16 @@
       "name": "超極傑克",
       "item_type": "邦布",
       "rank_type": 4
+    },
+    "54023": {
+      "name": "艾瑞兒",
+      "item_type": "邦布",
+      "rank_type": 4
+    },
+    "55098": {
+      "name": "伊埃斯",
+      "item_type": "邦布",
+      "rank_type": 3
     }
   },
   "en-us": {
@@ -2369,6 +2419,16 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14158": {
+      "name": "Ode of Resurrected Wings",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14159": {
+      "name": "Knight's Extolment",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "1011": {
       "name": "Anby",
       "item_type": "Agents",
@@ -2650,7 +2710,12 @@
       "rank_type": 4
     },
     "1581": {
-      "name": "Avatar_Female_Size02_Remielle",
+      "name": "Remielle",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1591": {
+      "name": "Sigrid",
       "item_type": "Agents",
       "rank_type": 4
     },
@@ -2853,6 +2918,16 @@
       "name": "Ultra Jake",
       "item_type": "Bangboo",
       "rank_type": 4
+    },
+    "54023": {
+      "name": "Ariel",
+      "item_type": "Bangboo",
+      "rank_type": 4
+    },
+    "55098": {
+      "name": "Eous",
+      "item_type": "Bangboo",
+      "rank_type": 3
     }
   },
   "ja-jp": {
@@ -3321,6 +3396,16 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14158": {
+      "name": "目覚めし翼の聖歌",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14159": {
+      "name": "栄光の騎士道",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "1011": {
       "name": "アンビー",
       "item_type": "エージェント",
@@ -3602,7 +3687,12 @@
       "rank_type": 4
     },
     "1581": {
-      "name": "Avatar_Female_Size02_Remielle",
+      "name": "レミエール",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1591": {
+      "name": "シグリッド",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -3805,6 +3895,16 @@
       "name": "ウルトラネイヴ",
       "item_type": "ボンプ",
       "rank_type": 4
+    },
+    "54023": {
+      "name": "アリエル",
+      "item_type": "ボンプ",
+      "rank_type": 4
+    },
+    "55098": {
+      "name": "イアス",
+      "item_type": "ボンプ",
+      "rank_type": 3
     }
   },
   "ko-kr": {
@@ -4273,6 +4373,16 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14158": {
+      "name": "돌아온 날개의 시",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14159": {
+      "name": "기사 예찬",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "1011": {
       "name": "엔비",
       "item_type": "에이전트",
@@ -4554,7 +4664,12 @@
       "rank_type": 4
     },
     "1581": {
-      "name": "Avatar_Female_Size02_Remielle",
+      "name": "레미엘",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1591": {
+      "name": "시그리드",
       "item_type": "에이전트",
       "rank_type": 4
     },
@@ -4757,7 +4872,17 @@
       "name": "울트라 제이크",
       "item_type": "「Bangboo」",
       "rank_type": 4
+    },
+    "54023": {
+      "name": "아리엘",
+      "item_type": "「Bangboo」",
+      "rank_type": 4
+    },
+    "55098": {
+      "name": "이아스",
+      "item_type": "「Bangboo」",
+      "rank_type": 3
     }
   },
-  "version": "3.0"
+  "version": "3.1"
 }
