@@ -75,6 +75,11 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "12016": {
+      "name": "「月相」-弦",
+      "item_type": "音擎",
+      "rank_type": 2
+    },
     "13001": {
       "name": "街头巨星",
       "item_type": "音擎",
@@ -155,6 +160,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13017": {
+      "name": "喵运当头",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13018": {
       "name": "咚哒回声",
       "item_type": "音擎",
@@ -167,6 +177,11 @@
     },
     "13020": {
       "name": "炎炙沸釜",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "13021": {
+      "name": "血髓秘匣",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -475,6 +490,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14161": {
+      "name": "猩红渴望",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14162": {
+      "name": "绯月银棺",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -765,6 +790,16 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1611": {
+      "name": "克拉蕾",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1621": {
+      "name": "洛克茜",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鹅布",
       "item_type": "邦布",
@@ -1052,6 +1087,11 @@
       "item_type": "音擎",
       "rank_type": 2
     },
+    "12016": {
+      "name": "「月相」-弦",
+      "item_type": "音擎",
+      "rank_type": 2
+    },
     "13001": {
       "name": "街頭巨星",
       "item_type": "音擎",
@@ -1132,6 +1172,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13017": {
+      "name": "喵運當頭",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13018": {
       "name": "咚噠回聲",
       "item_type": "音擎",
@@ -1144,6 +1189,11 @@
     },
     "13020": {
       "name": "炎炙沸釜",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
+    "13021": {
+      "name": "血髓祕匣",
       "item_type": "音擎",
       "rank_type": 3
     },
@@ -1452,6 +1502,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14161": {
+      "name": "猩紅渴望",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14162": {
+      "name": "緋月銀棺",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -1742,6 +1802,16 @@
       "item_type": "代理人",
       "rank_type": 4
     },
+    "1611": {
+      "name": "克拉蕾",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1621": {
+      "name": "洛克茜",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
     "53001": {
       "name": "企鵝布",
       "item_type": "邦布",
@@ -2029,6 +2099,11 @@
       "item_type": "W-Engines",
       "rank_type": 2
     },
+    "12016": {
+      "name": "[Lunar] Semiluna",
+      "item_type": "W-Engines",
+      "rank_type": 2
+    },
     "13001": {
       "name": "Street Superstar",
       "item_type": "W-Engines",
@@ -2109,6 +2184,11 @@
       "item_type": "W-Engines",
       "rank_type": 3
     },
+    "13017": {
+      "name": "Catty Luck",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
     "13018": {
       "name": "Boisterous Echoes",
       "item_type": "W-Engines",
@@ -2121,6 +2201,11 @@
     },
     "13020": {
       "name": "The Simmering Pot",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
+    "13021": {
+      "name": "Bloodmarrow Coffer",
       "item_type": "W-Engines",
       "rank_type": 3
     },
@@ -2429,6 +2514,16 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14161": {
+      "name": "Crimson Thirst",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14162": {
+      "name": "Crimson Moon Casket",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "1011": {
       "name": "Anby",
       "item_type": "Agents",
@@ -2719,6 +2814,16 @@
       "item_type": "Agents",
       "rank_type": 4
     },
+    "1611": {
+      "name": "Claret",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1621": {
+      "name": "Roxy",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
     "53001": {
       "name": "Penguinboo",
       "item_type": "Bangboo",
@@ -3006,6 +3111,11 @@
       "item_type": "音動機",
       "rank_type": 2
     },
+    "12016": {
+      "name": "「月相」-弦",
+      "item_type": "音動機",
+      "rank_type": 2
+    },
     "13001": {
       "name": "ストリートスター",
       "item_type": "音動機",
@@ -3086,6 +3196,11 @@
       "item_type": "音動機",
       "rank_type": 3
     },
+    "13017": {
+      "name": "ニャン運到来",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
     "13018": {
       "name": "ドンカツエコー",
       "item_type": "音動機",
@@ -3098,6 +3213,11 @@
     },
     "13020": {
       "name": "炎々沸々鍋一丁",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
+    "13021": {
+      "name": "ブラッドボックス",
       "item_type": "音動機",
       "rank_type": 3
     },
@@ -3406,6 +3526,16 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14161": {
+      "name": "深紅の渇望",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14162": {
+      "name": "緋月の銀棺",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "1011": {
       "name": "アンビー",
       "item_type": "エージェント",
@@ -3696,6 +3826,16 @@
       "item_type": "エージェント",
       "rank_type": 4
     },
+    "1611": {
+      "name": "クラレッタ",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1621": {
+      "name": "ロクシー",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
     "53001": {
       "name": "ペンギンボンプ",
       "item_type": "ボンプ",
@@ -3983,6 +4123,11 @@
       "item_type": "W-엔진",
       "rank_type": 2
     },
+    "12016": {
+      "name": "「루나」-반달",
+      "item_type": "W-엔진",
+      "rank_type": 2
+    },
     "13001": {
       "name": "거리의 슈퍼스타",
       "item_type": "W-엔진",
@@ -4063,6 +4208,11 @@
       "item_type": "W-엔진",
       "rank_type": 3
     },
+    "13017": {
+      "name": "묘운이 눈앞에",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
     "13018": {
       "name": "둥둥 메아리",
       "item_type": "W-엔진",
@@ -4075,6 +4225,11 @@
     },
     "13020": {
       "name": "들끓는 가마솥",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
+    "13021": {
+      "name": "진혈의 비갑",
       "item_type": "W-엔진",
       "rank_type": 3
     },
@@ -4383,6 +4538,16 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14161": {
+      "name": "핏빛 갈망",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14162": {
+      "name": "진홍달의 은관",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "1011": {
       "name": "엔비",
       "item_type": "에이전트",
@@ -4673,6 +4838,16 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1611": {
+      "name": "클라렛",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1621": {
+      "name": "록시",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "53001": {
       "name": "펭귄부",
       "item_type": "「Bangboo」",
@@ -4884,5 +5059,5 @@
       "rank_type": 3
     }
   },
-  "version": "3.1"
+  "version": "3.2"
 }
