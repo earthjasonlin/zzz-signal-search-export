@@ -185,6 +185,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13022": {
+      "name": "烛光诡计",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13101": {
       "name": "德玛拉电池Ⅱ型",
       "item_type": "音擎",
@@ -500,6 +505,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14163": {
+      "name": "禁罪囚笼",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14164": {
+      "name": "涅槃初翎",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -797,6 +812,16 @@
     },
     "1621": {
       "name": "洛克茜",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1631": {
+      "name": "赛维里安",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1641": {
+      "name": "菲欧妮",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -1197,6 +1222,11 @@
       "item_type": "音擎",
       "rank_type": 3
     },
+    "13022": {
+      "name": "燭光詭計",
+      "item_type": "音擎",
+      "rank_type": 3
+    },
     "13101": {
       "name": "德瑪拉電池Ⅱ型",
       "item_type": "音擎",
@@ -1512,6 +1542,16 @@
       "item_type": "音擎",
       "rank_type": 4
     },
+    "14163": {
+      "name": "禁罪囚籠",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
+    "14164": {
+      "name": "涅槃初翎",
+      "item_type": "音擎",
+      "rank_type": 4
+    },
     "1011": {
       "name": "安比",
       "item_type": "代理人",
@@ -1809,6 +1849,16 @@
     },
     "1621": {
       "name": "洛克茜",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1631": {
+      "name": "賽維裏安",
+      "item_type": "代理人",
+      "rank_type": 4
+    },
+    "1641": {
+      "name": "菲歐妮",
       "item_type": "代理人",
       "rank_type": 4
     },
@@ -2209,6 +2259,11 @@
       "item_type": "W-Engines",
       "rank_type": 3
     },
+    "13022": {
+      "name": "Candlelit Scheme",
+      "item_type": "W-Engines",
+      "rank_type": 3
+    },
     "13101": {
       "name": "Demara Battery Mark II",
       "item_type": "W-Engines",
@@ -2524,6 +2579,16 @@
       "item_type": "W-Engines",
       "rank_type": 4
     },
+    "14163": {
+      "name": "Incarcerating Grip",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
+    "14164": {
+      "name": "Plume of Rebirth",
+      "item_type": "W-Engines",
+      "rank_type": 4
+    },
     "1011": {
       "name": "Anby",
       "item_type": "Agents",
@@ -2821,6 +2886,16 @@
     },
     "1621": {
       "name": "Roxy",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1631": {
+      "name": "Severian",
+      "item_type": "Agents",
+      "rank_type": 4
+    },
+    "1641": {
+      "name": "Phoenix",
       "item_type": "Agents",
       "rank_type": 4
     },
@@ -3221,6 +3296,11 @@
       "item_type": "音動機",
       "rank_type": 3
     },
+    "13022": {
+      "name": "キャンドル・トリック",
+      "item_type": "音動機",
+      "rank_type": 3
+    },
     "13101": {
       "name": "デマラ式電池Ⅱ型",
       "item_type": "音動機",
@@ -3536,6 +3616,16 @@
       "item_type": "音動機",
       "rank_type": 4
     },
+    "14163": {
+      "name": "罪捕らえる牢獄",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
+    "14164": {
+      "name": "転生の炎翼",
+      "item_type": "音動機",
+      "rank_type": 4
+    },
     "1011": {
       "name": "アンビー",
       "item_type": "エージェント",
@@ -3833,6 +3923,16 @@
     },
     "1621": {
       "name": "ロクシー",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1631": {
+      "name": "セヴェリアン",
+      "item_type": "エージェント",
+      "rank_type": 4
+    },
+    "1641": {
+      "name": "フィオニー",
       "item_type": "エージェント",
       "rank_type": 4
     },
@@ -4233,6 +4333,11 @@
       "item_type": "W-엔진",
       "rank_type": 3
     },
+    "13022": {
+      "name": "촛불 트릭",
+      "item_type": "W-엔진",
+      "rank_type": 3
+    },
     "13101": {
       "name": "데마라 배터리 Ⅱ형",
       "item_type": "W-엔진",
@@ -4548,6 +4653,16 @@
       "item_type": "W-엔진",
       "rank_type": 4
     },
+    "14163": {
+      "name": "금단의 감옥",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
+    "14164": {
+      "name": "열반의 첫 깃",
+      "item_type": "W-엔진",
+      "rank_type": 4
+    },
     "1011": {
       "name": "엔비",
       "item_type": "에이전트",
@@ -4848,6 +4963,16 @@
       "item_type": "에이전트",
       "rank_type": 4
     },
+    "1631": {
+      "name": "세베리안",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
+    "1641": {
+      "name": "피닉스",
+      "item_type": "에이전트",
+      "rank_type": 4
+    },
     "53001": {
       "name": "펭귄부",
       "item_type": "「Bangboo」",
@@ -5059,5 +5184,5 @@
       "rank_type": 3
     }
   },
-  "version": "3.2"
+  "version": "3.3"
 }
